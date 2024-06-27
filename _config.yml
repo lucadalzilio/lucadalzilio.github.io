@@ -245,7 +245,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: "/Users/l.d.zilio/Documents/academicpages.github.io/_publications"
       type: publications
     values:
       layout: single
