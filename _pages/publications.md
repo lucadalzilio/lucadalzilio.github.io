@@ -10,6 +10,15 @@ author_profile: true
 ## Publications 
 
 ### 
+
+[**29**] Bianchi, P., Selvadurai, P.A., ** Dal Zilio, L.**, Salazar Vásquez, A., Madonna, C., Gerya, T. and Wiemer, S., (2024). Pre-Failure Strain Localization in Siliclastic Rocks: A Comparative Study of Laboratory and Numerical Approaches. Rock Mechanics and Rock Engineering, pp.1-25.
+
+[**28**] Kammer, D.S., McLaskey, G.C., Abercrombie, R.E., Ampuero, J.P., Cattania, C., Cocco, M., ** Dal Zilio, L. **, Dresen, G., Gabriel, A.A., Ke, C.Y. and Marone, C., (2024). Earthquake energy dissipation in a fracture mechanics framework. Nature communications, 15(1), p.4736.
+
+[**27**] Huang, K., Wei, G., Chen, K., Zhang, N., Li, M., & **Dal Zilio, L.** (2024). The 2023 Mw 6.8 Morocco Earthquake: A Lower Crust Event Triggered by Mantle Upwelling?. Geophysical Research Letters, 51(12), e2024GL109052.
+
+[**26**] Chen, H., Qu, C., Zhao, D., Shan, X., Ma, C., Gong, W., Zhao, L. and ** Dal Zilio, L. **, (2024). 3-D coseismic displacement mapping of the 2015 Mw 7.8 Gorkha earthquake using multi-viewed InSAR. Tectonophysics, 876. 
+
 [**25**] Wei, G., Chen, K., Lyu, M., Gong, W., **Dal Zilio, L.**, Ye, L., & Tu, H. (2023). Complex strike-slip faulting during the 2021 Mw 7.4 Maduo earthquake. Communications Earth & Environment, 4(1), 319. [pdf](https://entuedu-my.sharepoint.com/:b:/g/personal/luca_dalzilio_staff_main_ntu_edu_sg/EWvY1V2XXp9OuLYxXdWBq4gBc9Kkw4QJQvXBFcyFA4iVXQ?e=iPfgWL)
 
 [**24**] **Dal Zilio, L.**, Giardini, D., Carbonell, R., Wiemer, S., (2023). Harnessing the potential of digital twins in seismology. Nature Review Earth & Environment. [pdf]
