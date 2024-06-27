@@ -11,6 +11,6 @@ excerpt: 'Dal Zilio, L. and Ampuero, J.-P. (2023). Earthquake doublet in Turkey 
 
 excerpt: 'Erickson, B. A., J. Jiang, V. Lambert, M. Abdelmeguid, M. Almquist, J.-P. Ampuero, R. Ando, S. Barbot, C. Cattania, A. Chen, L. Dal Zilio, E. M. Dunham, A. Elbanna, A.-A. Gabriel, T. W. Harvey, Y. Huang, Y. Kaneko, J. E. Kozdon, N. Lapusta, D. Li, M. Li, C. Liang, Y. Liu, S. Ozawa, C. Pranger, P. Segall, Y. Sun, P. Thakur, C. Uphoff, Y. van Dinther, Y. Yang, (2023). Incorporating full elastodynamic effects and dipping fault geometries in community code verification exercises for simulations of earthquake sequences and aseismic slip (SEAS).'
 
-paperurl: 'https://github.com/lucadalzilio/lucadalzilio.github.io/files/paper1.pdf'
+paperurl: 'https://github.com/lucadalzilio/lucadalzilio.github.io/tree/master/files/paper1.pdf'
 
 ---
