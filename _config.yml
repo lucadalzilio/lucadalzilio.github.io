@@ -21,7 +21,7 @@ repository               : "https://github.com/lucadalzilio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Luca-Dal-Zilio.jpeg"
+  avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"
   bio              : "Assistant Professor of Geophysics at the Earth Observatory of Singapore"
