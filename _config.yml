@@ -205,7 +205,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /Users/l.d.zilio/Documents/academicpages.github.io/_publications
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -245,7 +245,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: "/Users/l.d.zilio/Documents/academicpages.github.io/_publications"
+      path: ""
       type: publications
     values:
       layout: single
