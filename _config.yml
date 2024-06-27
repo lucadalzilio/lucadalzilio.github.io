@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "Luca_Dal_Zilio.jpg"
   name             : "Luca Dal Zilio"
-  pronouns         : # example: "she/her"
+  pronouns         : "he/him"
   bio              : "Assistant Professor of Geophysics at the Earth Observatory of Singapore"
-  location         : "Singapore"
+  location         : "Singapore, Singapore"
   employer         : "Nanyang Technological University"
-  uri              : # URL
+  uri              : "https://www.lucadalzilio.net"
   email            : "luca.dalzilio@ntu.edu.sg"
 
   # Academic websites
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "lucadalzilio"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
