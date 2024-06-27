@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Luca-Dal-Zilio.jpeg"
+  avatar           : "Luca_Dal_Zilio.jpg"
   name             : "Luca Dal Zilio"
   pronouns         : # example: "she/her"
   bio              : "Assistant Professor of Geophysics at the Earth Observatory of Singapore"
