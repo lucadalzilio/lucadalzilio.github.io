@@ -9,9 +9,7 @@ author_profile: true
 
 ## Publications 
 
-======
-
-<sub>[**29**] Bianchi, P., Selvadurai, P.A., **Dal Zilio, L.**, Salazar Vásquez, A., Madonna, C., Gerya, T. and Wiemer, S., (2024). Pre-Failure Strain Localization in Siliclastic Rocks: A Comparative Study of Laboratory and Numerical Approaches. Rock Mechanics and Rock Engineering, pp.1-25.</sub>
+[**29**] Bianchi, P., Selvadurai, P.A., **Dal Zilio, L.**, Salazar Vásquez, A., Madonna, C., Gerya, T. and Wiemer, S., (2024). Pre-Failure Strain Localization in Siliclastic Rocks: A Comparative Study of Laboratory and Numerical Approaches. Rock Mechanics and Rock Engineering, pp.1-25.
 
 [**28**] Kammer, D.S., McLaskey, G.C., Abercrombie, R.E., Ampuero, J.P., Cattania, C., Cocco, M., **Dal Zilio, L.**, Dresen, G., Gabriel, A.A., Ke, C.Y. and Marone, C., (2024). Earthquake energy dissipation in a fracture mechanics framework. Nature communications, 15(1), p.4736.
 
