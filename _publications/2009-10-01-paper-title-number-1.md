@@ -1,7 +1,7 @@
 
 # Publication List
 
-## Publications (Descending Order)
+## Publications
 
 [25] Wei, G., Chen, K., Lyu, M., Gong, W., Dal Zilio, L., Ye, L., & Tu, H. (2023). Complex strike-slip faulting during the 2021 Mw7. 4 Maduo earthquake. Communications Earth & Environment, 4(1), 319. [⬇︎pdf ]
 
