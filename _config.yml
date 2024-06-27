@@ -205,7 +205,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /Users/l.d.zilio/Documents/academicpages.github.io/_publications
   portfolio:
     output: true
     permalink: /:collection/:path/
