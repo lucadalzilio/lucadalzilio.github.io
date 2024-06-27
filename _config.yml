@@ -12,16 +12,16 @@ title                    : "Luca Dal Zilio"
 title_separator          : "-"
 name                     : &name "Luca Dal Zilio"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.lucadalzilio.net 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/lucadalzilio"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Luca-Dal-Zilio.jpeg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"
   bio              : "Assistant Professor of Geophysics at the Earth Observatory of Singapore"
