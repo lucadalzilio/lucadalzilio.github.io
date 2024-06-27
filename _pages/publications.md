@@ -5,19 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-<<<<<<< HEAD
-  <div class="wordwrap"><a href="{{site.author.googlescholar}}">Google Scholar profile</a></div>
-
-## Publications 
-
-[25] Wei, G., Chen, K., Lyu, M., Gong, W., Dal Zilio, L., Ye, L., & Tu, H. (2023). Complex strike-slip faulting during the 2021 Mw7. 4 Maduo earthquake. Communications Earth & Environment, 4(1), 319. [pdf](https://entuedu-my.sharepoint.com/:b:/g/personal/luca_dalzilio_staff_main_ntu_edu_sg/EWvY1V2XXp9OuLYxXdWBq4gBc9Kkw4QJQvXBFcyFA4iVXQ?e=iPfgWL)
-=======
 <div class="wordwrap"><a href="{{site.author.googlescholar}}">Google Scholar profile</a></div>
 
 ## Publications 
 
-[25] Wei, G., Chen, K., Lyu, M., Gong, W., Dal Zilio, L., Ye, L., & Tu, H. (2023). Complex strike-slip faulting during the 2021 Mw 7.4 Maduo earthquake. Communications Earth & Environment, 4(1), 319. [pdf](https://entuedu-my.sharepoint.com/:b:/g/personal/luca_dalzilio_staff_main_ntu_edu_sg/EWvY1V2XXp9OuLYxXdWBq4gBc9Kkw4QJQvXBFcyFA4iVXQ?e=iPfgWL)
->>>>>>> b68f1e2bbf38e95cf89315fc347a1cfcc796f957
+[25] Wei, G., Chen, K., Lyu, M., Gong, W., Dal Zilio, L., Ye, L., & Tu, H. (2023). Complex strike-slip faulting during the 2021 Mw7. 4 Maduo earthquake. Communications Earth & Environment, 4(1), 319. [pdf](https://entuedu-my.sharepoint.com/:b:/g/personal/luca_dalzilio_staff_main_ntu_edu_sg/EWvY1V2XXp9OuLYxXdWBq4gBc9Kkw4QJQvXBFcyFA4iVXQ?e=iPfgWL)
 
 [24] Dal Zilio, L., Giardini, D., Carbonell, R., Wiemer, S., (2023). Harnessing the potential of digital twins in seismology. Nature Review Earth & Environment. [pdf]
 
