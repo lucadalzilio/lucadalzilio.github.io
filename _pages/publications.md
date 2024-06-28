@@ -8,23 +8,23 @@ author_profile: true
 
 ## Peer-reviewed papers [ * MSc/PhD/Post-doc (co-)advised ] 
 
-[**29**] Bianchi, P., Selvadurai, P.A., **Dal Zilio, L.**, Salazar Vásquez, A., Madonna, C., Gerya, T. and Wiemer, S., (2024). Pre-Failure Strain Localization in Siliclastic Rocks: A Comparative Study of Laboratory and Numerical Approaches. Rock Mechanics and Rock Engineering, pp.1-25. <a href="http://lucadalzilio.github.io/files/paper1.pdf" target="_blank">PDF</a> 
+[**29**] Bianchi, P., Selvadurai, P.A., **Dal Zilio, L.**, Salazar Vásquez, A., Madonna, C., Gerya, T. and Wiemer, S., (2024). Pre-Failure Strain Localization in Siliclastic Rocks: A Comparative Study of Laboratory and Numerical Approaches. Rock Mechanics and Rock Engineering, pp.1-25. [ <a href="http://lucadalzilio.github.io/files/Bianchi_et_al-2024.pdf" target="_blank">PDF</a> ]
 
-[**28**] Kammer, D.S., McLaskey, G.C., Abercrombie, R.E., Ampuero, J.P., Cattania, C., Cocco, M., **Dal Zilio, L.**, Dresen, G., Gabriel, A.A., Ke, C.Y. and Marone, C., (2024). Earthquake energy dissipation in a fracture mechanics framework. Nature communications, 15(1), p.4736.
+[**28**] Kammer, D.S., McLaskey, G.C., Abercrombie, R.E., Ampuero, J.P., Cattania, C., Cocco, M., **Dal Zilio, L.**, Dresen, G., Gabriel, A.A., Ke, C.Y. and Marone, C., (2024). Earthquake energy dissipation in a fracture mechanics framework. Nature communications, 15(1), p.4736.  [ <a href="http://lucadalzilio.github.io/files/Kammer_et_al-2024.pdf" target="_blank">PDF</a> ]
 
-[**27**] Huang, K., Wei, G., Chen, K., Zhang, N., Li, M., & **Dal Zilio, L** (2024). The 2023 Mw 6.8 Morocco Earthquake: A Lower Crust Event Triggered by Mantle Upwelling?. Geophysical Research Letters, 51(12), e2024GL109052.
+[**27**] Huang, K., Wei, G., Chen, K., Zhang, N., Li, M., & **Dal Zilio, L** (2024). The 2023 Mw 6.8 Morocco Earthquake: A Lower Crust Event Triggered by Mantle Upwelling?. Geophysical Research Letters, 51(12), e2024GL109052. [ <a href="http://lucadalzilio.github.io/files/Huang_et_al-2024.pdf" target="_blank">PDF</a> ]
 
-[**26**] Chen, H., Qu, C., Zhao, D., Shan, X., Ma, C., Gong, W., Zhao, L. and **Dal Zilio, L.**, (2024). 3-D coseismic displacement mapping of the 2015 Mw 7.8 Gorkha earthquake using multi-viewed InSAR. Tectonophysics, 876. 
+[**26**] Chen, H., Qu, C., Zhao, D., Shan, X., Ma, C., Gong, W., Zhao, L. and **Dal Zilio, L.**, (2024). 3-D coseismic displacement mapping of the 2015 Mw 7.8 Gorkha earthquake using multi-viewed InSAR. Tectonophysics, 876. [ <a href="http://lucadalzilio.github.io/files/Chen_et_al-2024.pdf" target="_blank">PDF</a> ]
 
-[**25**] Wei, G., Chen, K., Lyu, M., Gong, W., **Dal Zilio, L.**, Ye, L., & Tu, H. (2023). Complex strike-slip faulting during the 2021 Mw 7.4 Maduo earthquake. Communications Earth & Environment, 4(1), 319. [pdf](https://entuedu-my.sharepoint.com/:b:/g/personal/luca_dalzilio_staff_main_ntu_edu_sg/EWvY1V2XXp9OuLYxXdWBq4gBc9Kkw4QJQvXBFcyFA4iVXQ?e=iPfgWL)
+[**25**] Wei, G., Chen, K., Lyu, M., Gong, W., **Dal Zilio, L.**, Ye, L., & Tu, H. (2023). Complex strike-slip faulting during the 2021 Mw 7.4 Maduo earthquake. Communications Earth & Environment, 4(1), 319. [ <a href="http://lucadalzilio.github.io/files/Wei_et_al-2023.pdf" target="_blank">PDF</a> ]
 
-[**24**] **Dal Zilio, L.**, Giardini, D., Carbonell, R., Wiemer, S., (2023). Harnessing the potential of digital twins in seismology. Nature Review Earth & Environment. [pdf]
+[**24**] **Dal Zilio, L.**, Giardini, D., Carbonell, R., Wiemer, S., (2023). Harnessing the potential of digital twins in seismology. Nature Review Earth & Environment. [ <a href="http://lucadalzilio.github.io/files/Dal-Zilio_et_al-2023.pdf" target="_blank">PDF</a> ]
 
-[**23**] Michel, S., Stevens, V., **Dal Zilio, L.** and Jolivet, R. (2023). Seismic Coupling and Hazard Assessment of the Himalaya. In Himalaya, Dynamics of a Giant 3 (eds R. Cattin and J.-L. Epard). [pdf]
+[**23**] Michel, S., Stevens, V., **Dal Zilio, L.** and Jolivet, R. (2023). Seismic Coupling and Hazard Assessment of the Himalaya. In Himalaya, Dynamics of a Giant 3 (eds R. Cattin and J.-L. Epard). [ <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781394228683.ch6?target=_blank" target="_blank">PDF</a> ]
 
-[**22**] Wang, X.*, Kammer, D., **Dal Zilio, L.**, Morgan, J., (2023). Non-precursory Accelerating Aseismic Slip during Rupture Nucleation. Journal of Geophysical Research: Solid Earth, 128(6). [pdf]
+[**22**] Wang, X.*, Kammer, D., **Dal Zilio, L.**, Morgan, J., (2023). Non-precursory Accelerating Aseismic Slip during Rupture Nucleation. Journal of Geophysical Research: Solid Earth, 128(6). [ <a href="http://lucadalzilio.github.io/files/Wang_et_al-2023.pdf" target="_blank">PDF</a> ]
 
-[**21**] **Dal Zilio, L.** and Ampuero, J.-P. (2023). Earthquake doublet in Turkey and Syria. Nat. Commun. Earth & Environ, 4, 71. [pdf]
+[**21**] **Dal Zilio, L.** and Ampuero, J.-P. (2023). Earthquake doublet in Turkey and Syria. Nat. Commun. Earth & Environ, 4, 71. [ <a href="http://lucadalzilio.github.io/files/Dal_Zilio_Ampuero-2023.pdf" target="_blank">PDF</a> ]
 
 [**20**] Erickson, B. A., J. Jiang, V. Lambert, M. Abdelmeguid, M. Almquist, J.-P. Ampuero, R. Ando, S. Barbot, C. Cattania, A. Chen, **L. Dal Zilio**, E. M. Dunham, A. Elbanna, A.-A. Gabriel, T. W. Harvey, Y. Huang, Y. Kaneko, J. E. Kozdon, N. Lapusta, D. Li, M. Li, C. Liang, Y. Liu, S. Ozawa, C. Pranger, P. Segall, Y. Sun, P. Thakur, C. Uphoff, Y. van Dinther, Y. Yang, (2023). Incorporating full elastodynamic effects and dipping fault geometries in community code verification exercises for simulations of earthquake sequences and aseismic slip (SEAS). [pdf]
 
