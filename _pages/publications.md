@@ -4,8 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-<div class="wordwrap"><a href="{{site.author.googlescholar}}">Google Scholar profile</a></div>
+<a href="https://scholar.google.com/citations?user=nvfIto8AAAAJ&hl=en" target="_blank">Google Scholar profile</a>
 
 ## Publications 
 
