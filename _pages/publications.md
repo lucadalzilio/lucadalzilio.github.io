@@ -26,42 +26,42 @@ author_profile: true
 
 [**21**] **Dal Zilio, L.** and Ampuero, J.-P. (2023). Earthquake doublet in Turkey and Syria. Nat. Commun. Earth & Environ, 4, 71. [ <a href="http://lucadalzilio.github.io/files/Dal_Zilio_Ampuero-2023.pdf" target="_blank">PDF</a> ]
 
-[**20**] Erickson, B. A., J. Jiang, V. Lambert, M. Abdelmeguid, M. Almquist, J.-P. Ampuero, R. Ando, S. Barbot, C. Cattania, A. Chen, **L. Dal Zilio**, E. M. Dunham, A. Elbanna, A.-A. Gabriel, T. W. Harvey, Y. Huang, Y. Kaneko, J. E. Kozdon, N. Lapusta, D. Li, M. Li, C. Liang, Y. Liu, S. Ozawa, C. Pranger, P. Segall, Y. Sun, P. Thakur, C. Uphoff, Y. van Dinther, Y. Yang, (2023). Incorporating full elastodynamic effects and dipping fault geometries in community code verification exercises for simulations of earthquake sequences and aseismic slip (SEAS). [pdf]
+[**20**] Erickson, B. A., J. Jiang, V. Lambert, M. Abdelmeguid, M. Almquist, J.-P. Ampuero, R. Ando, S. Barbot, C. Cattania, A. Chen, **L. Dal Zilio**, E. M. Dunham, A. Elbanna, A.-A. Gabriel, T. W. Harvey, Y. Huang, Y. Kaneko, J. E. Kozdon, N. Lapusta, D. Li, M. Li, C. Liang, Y. Liu, S. Ozawa, C. Pranger, P. Segall, Y. Sun, P. Thakur, C. Uphoff, Y. van Dinther, Y. Yang, (2023). Incorporating full elastodynamic effects and dipping fault geometries in community code verification exercises for simulations of earthquake sequences and aseismic slip (SEAS).  [ <a href="http://lucadalzilio.github.io/files/Erickson_et_al-2022.pdf" target="_blank">PDF</a> ]
 
-[**19**] **Dal Zilio, L.** and Gerya, T. (2022). Subduction earthquake cycles controlled by episodic fluid pressure cycling. Lithos, 426–427, 106800. [pdf]
+[**19**] **Dal Zilio, L.** and Gerya, T. (2022). Subduction earthquake cycles controlled by episodic fluid pressure cycling. Lithos, 426–427, 106800.  [ <a href="http://lucadalzilio.github.io/files/Dal_Zilio_Gerya-2022.pdf" target="_blank">PDF</a> ]
 
-[**18**] **Dal Zilio, L.**, Hegyi, B., Behr, W., Gerya, T. (2022). Hydro-mechanical earthquake cycles in a poro-visco-elasto-plastic fluid-bearing fault structure. Tectonophysics 838, 229516. [pdf]
+[**18**] **Dal Zilio, L.**, Hegyi, B., Behr, W., Gerya, T. (2022). Hydro-mechanical earthquake cycles in a poro-visco-elasto-plastic fluid-bearing fault structure. Tectonophysics 838, 229516.  [ <a href="http://lucadalzilio.github.io/files/Dal_Zilio_et_al-2022b.pdf" target="_blank">PDF</a> ]
 
-[**17**] Jiang, J., Erickson, B., Lambert, V., Ampuero, J.-P., Ando, R., Barbot, S., Cattania, C., **Dal Zilio, L.**, Duan, B., Dunham, E. M., Gabriel, A.-A., Lapusta, N., Li, D., Liu, D., Liu, Y., Ozawa, S., Pranger, C. & Van Dinther, Y. (2022). Community-driven code comparisons for three-dimensional dynamic modeling of sequences of earthquakes and aseismic slip (SEAS). Journal of Geophysical Research: Solid Earth, 124(12), 12854–12881. [pdf]
+[**17**] Jiang, J., Erickson, B., Lambert, V., Ampuero, J.-P., Ando, R., Barbot, S., Cattania, C., **Dal Zilio, L.**, Duan, B., Dunham, E. M., Gabriel, A.-A., Lapusta, N., Li, D., Liu, D., Liu, Y., Ozawa, S., Pranger, C. & Van Dinther, Y. (2022). Community-driven code comparisons for three-dimensional dynamic modeling of sequences of earthquakes and aseismic slip (SEAS). Journal of Geophysical Research: Solid Earth, 124(12), 12854–12881.  [ <a href="http://lucadalzilio.github.io/files/Jiang_et_al-2022.pdf" target="_blank">PDF</a> ]
 
-[**16**] **Dal Zilio, L.**, Lapusta, N., Avouac, J.P., Gerya, T. (2022). Subduction earthquake sequences in a non-linear visco-elasto-plastic megathrust. Geophysical Journal International, 229(2). [pdf]
+[**16**] **Dal Zilio, L.**, Lapusta, N., Avouac, J.P., Gerya, T. (2022). Subduction earthquake sequences in a non-linear visco-elasto-plastic megathrust. Geophysical Journal International, 229(2). [ <a href="http://lucadalzilio.github.io/files/Dal_Zilio_et_al-2022a.pdf" target="_blank">PDF</a> ]
 
-[**15**] Brizzi, S., Becker, T.W., Faccenna, C., Behr, W.M., van Zelst, I., **Dal Zilio, L.**, & van Dinther, Y. (2021). The role of sediment subduction and buoyancy on subduction dynamics and geometry. Geophysical Research Letters, 48. [pdf]
+[**15**] Brizzi, S., Becker, T.W., Faccenna, C., Behr, W.M., van Zelst, I., **Dal Zilio, L.**, & van Dinther, Y. (2021). The role of sediment subduction and buoyancy on subduction dynamics and geometry. Geophysical Research Letters, 48. [ <a href="http://lucadalzilio.github.io/files/Brizzi_et_al-2021.pdf" target="_blank">PDF</a> ]
 
-[**14**] Michel, S., Jolivet, R., Rollins, C., Jara, J., & **Dal Zilio, L.** (2021). Seismogenic potential of the Main Himalayan Thrust constrained by coupling segmentation and earthquake scaling. Geophysical Research Letters, 48. [pdf]
+[**14**] Michel, S., Jolivet, R., Rollins, C., Jara, J., & **Dal Zilio, L.** (2021). Seismogenic potential of the Main Himalayan Thrust constrained by coupling segmentation and earthquake scaling. Geophysical Research Letters, 48. [ <a href="http://lucadalzilio.github.io/files/Michel_et_al-2021.pdf" target="_blank">PDF</a> ]
 
-[**13**] **Dal Zilio, L.**, Hetényi, G., Hubbard, J., & Bollinger, L. (2021). Building the Himalaya from tectonic to earthquake scales. Nature Reviews Earth & Environment, 1-18. [pdf]
+[**13**] **Dal Zilio, L.**, Hetényi, G., Hubbard, J., & Bollinger, L. (2021). Building the Himalaya from tectonic to earthquake scales. Nature Reviews Earth & Environment, 1-18. [ <a href="http://lucadalzilio.github.io/files/Dal_Zilio_et_al-2021.pdf" target="_blank">PDF</a> ]
 
-[**12**] **Dal Zilio, L.**, Ruh, J., and Avouac, J.P. (2020). Structural evolution of orogenic wedges: interplay between erosion and weak décollements. Tectonics 39(10). [pdf]
+[**12**] **Dal Zilio, L.**, Ruh, J., and Avouac, J.P. (2020). Structural evolution of orogenic wedges: interplay between erosion and weak décollements. Tectonics 39(10). [ <a href="http://lucadalzilio.github.io/files/Dal_Zilio_et_al-2020_Tectonics.pdf" target="_blank">PDF</a> ]
 
-[**11**] **Dal Zilio, L.**, Kissling, E., Gerya, T. and van Dinther, Y. (2020). Slab Rollback Orogeny Model: A Test of Concept. Geophysical Research Letters 47(18). [pdf]
+[**11**] **Dal Zilio, L.**, Kissling, E., Gerya, T. and van Dinther, Y. (2020). Slab Rollback Orogeny Model: A Test of Concept. Geophysical Research Letters 47(18). [ <a href="http://lucadalzilio.github.io/files/Dal_zilio_2020_Slab_Rollback_Orogeny_Model.pdf" target="_blank">PDF</a> ]
 
-[**10**] D’Acquisto, M.*, **Dal Zilio, L.**, Molinari, I., Kissling, E., Gerya, T., van Dinther, Y. (2020). Tectonics and seismicity in the Northern Apennines driven by slab retreat and crustal delamination. Tectonophysics, 789: 228-481 [pdf]
+[**10**] D’Acquisto, M.*, **Dal Zilio, L.**, Molinari, I., Kissling, E., Gerya, T., van Dinther, Y. (2020). Tectonics and seismicity in the Northern Apennines driven by slab retreat and crustal delamination. Tectonophysics, 789: 228-481 [ <a href="http://lucadalzilio.github.io/files/DAcquisto_et_al-2020.pdf" target="_blank">PDF</a> ]
 
-[**9**] **Dal Zilio, L.**, Lapusta, N., Avouac, J.P. (2020). Unraveling scaling properties of slow-slip events. Geophysical Research Letters [pdf]
+[**9**] **Dal Zilio, L.**, Lapusta, N., Avouac, J.P. (2020). Unraveling scaling properties of slow-slip events. Geophysical Research Letters. [ <a href="http://lucadalzilio.github.io/files/Dal_Zilio_et_al-2020.pdf" target="_blank">PDF</a> ]
 
-[**8**] **Dal Zilio, L.**, Jolivet, R., van Dinther, Y. (2020). Segmentation of the Main Himalayan Thrust Illuminated by Bayesian Inference of Interseismic Coupling. Geophysical Research Letters 47 (4) [pdf]
+[**8**] **Dal Zilio, L.**, Jolivet, R., van Dinther, Y. (2020). Segmentation of the Main Himalayan Thrust Illuminated by Bayesian Inference of Interseismic Coupling. Geophysical Research Letters 47 (4). [ <a href="http://lucadalzilio.github.io/files/Dal_Zilio_et_al-2020-Geophysical_Research_Letters.pdf" target="_blank">PDF</a> ]
 
-[**7**] **Dal Zilio, L.**, van Dinther, Y., Gerya, T., Avouac, J.-P. (2019). Bimodal seismicity in the Himalaya controlled by fault friction and geometry. Nature Communications [pdf]
+[**7**] **Dal Zilio, L.**, van Dinther, Y., Gerya, T., Avouac, J.-P. (2019). Bimodal seismicity in the Himalaya controlled by fault friction and geometry. Nature Communications. [ <a href="http://lucadalzilio.github.io/files/Dal_Zilio_et_al-2019.pdf" target="_blank">PDF</a> ]
 
-[**6**] **Dal Zilio, L.** (2018). Subduction-driven Earth machine. Nature Geoscience (retrospective), 11, 229 [pdf]
+[**6**] **Dal Zilio, L.** (2018). Subduction-driven Earth machine. Nature Geoscience (retrospective), 11, 229. [ <a href="http://lucadalzilio.github.io/files/Dal_Zilio-2018.pdf" target="_blank">PDF</a> ]
 
-[**5**] **Dal Zilio, L.**, van Dinther, Y., and Gerya, T. V., (2018). Seismic behaviour of mountain belts controlled by plate convergence rate. Earth and Planetary Science Letters. 482, 81–92 [pdf]
+[**5**] **Dal Zilio, L.**, van Dinther, Y., and Gerya, T. V., (2018). Seismic behaviour of mountain belts controlled by plate convergence rate. Earth and Planetary Science Letters. 482, 81–92. [ <a href="http://lucadalzilio.github.io/files/Dal_Zilio_et_al-2018.pdf" target="_blank">PDF</a> ]
 
-[**4**] Ficini, E.*, **Dal Zilio, L.**, Doglioni, C., and Gerya, T. V., (2017). Horizontal mantle flow controls subduction dynamics. Scientific Reports, 7(1), 7550 [pdf]
+[**4**] Ficini, E.*, **Dal Zilio, L.**, Doglioni, C., and Gerya, T. V., (2017). Horizontal mantle flow controls subduction dynamics. Scientific Reports, 7(1), 7550. [ <a href="http://lucadalzilio.github.io/files/Ficini_et_al-2017.pdf" target="_blank">PDF</a> ]
 
-[**3**] **Dal Zilio, L.**, Faccenda, M., and Capitanio, F. A., (2017). The role of deep subduction in supercontinent breakup. Tectonophysics [pdf]
+[**3**] **Dal Zilio, L.**, Faccenda, M., and Capitanio, F. A., (2017). The role of deep subduction in supercontinent breakup. Tectonophysics. [ <a href="http://lucadalzilio.github.io/files/Dal_Zilio_et_al-2017.pdf" target="_blank">PDF</a> ]
 
-[**2**] Faccenda, M., and **Dal Zilio, L.**, (2017). The role of solid–solid phase transitions in mantle convection. Lithos 268, 198-224 [pdf]
+[**2**] Faccenda, M., and **Dal Zilio, L.**, (2017). The role of solid–solid phase transitions in mantle convection. Lithos 268, 198-224. [ <a href="http://lucadalzilio.github.io/files/Faccenda_DalZilio-2017.pdf" target="_blank">PDF</a> ]
 
-[**1**] Meyzen, C.M., Massironi, M., Pozzobon. R., and **Dal Zilio, L.**, (2015). Are plumes on motionless plates analogues to Martian plume feeding the giant shield volcanoes? Geological Society of London, 401 [pdf]
+[**1**] Meyzen, C.M., Massironi, M., Pozzobon. R., and **Dal Zilio, L.**, (2015). Are plumes on motionless plates analogues to Martian plume feeding the giant shield volcanoes? Geological Society of London, 401. [ <a href="http://lucadalzilio.github.io/files/Meyzen_et_al-2014.pdf" target="_blank">PDF</a> ]
