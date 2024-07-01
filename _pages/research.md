@@ -25,7 +25,7 @@ author_profile: true
   /* Media query for devices with a max width of 600px (e.g., mobile devices) */
   @media (max-width: 600px) {
     .responsive-video {
-      width: 80%;
+      width: 100%;
       height: auto;
     }
   }
@@ -51,14 +51,14 @@ author_profile: true
 <!-- CSS -->
 <style>
   .responsive-video {
-    width: 620px;
-    height: 440px;
+    width: 372px;
+    height: 264px;
   }
 
   /* Media query for devices with a max width of 600px (e.g., mobile devices) */
   @media (max-width: 600px) {
     .responsive-video {
-      width: 80%;
+      width: 100%;
       height: auto;
     }
   }
