@@ -30,7 +30,7 @@ author_profile: true
 <!-- CSS -->
 <style>
   .responsive-video {
-    width: 100%;
+    width: 60%;
     height: auto;
   }
 </style>
