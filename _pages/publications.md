@@ -8,9 +8,11 @@ author_profile: true
 
 ## Peer-reviewed papers <span style="font-weight: normal; font-size: smaller;">[ * MSc/PhD/Post-doc (co-)advised ]</span>
 
-[**29**] Bianchi, P., Selvadurai, P.A., **Dal Zilio, L.**, Salazar Vásquez, A., Madonna, C., Gerya, T. and Wiemer, S., (2024). Pre-Failure Strain Localization in Siliclastic Rocks: A Comparative Study of Laboratory and Numerical Approaches. <i>Rock Mechanics and Rock Engineering</i>, pp.1-25. [ <a href="http://lucadalzilio.github.io/files/Bianchi_et_al-2024.pdf" target="_blank">PDF</a> ]
+[**30**] Bianchi, P., Selvadurai, P.A., **Dal Zilio, L.**, Salazar Vásquez, A., Madonna, C., Gerya, T. and Wiemer, S., (2024). Pre-Failure Strain Localization in Siliclastic Rocks: A Comparative Study of Laboratory and Numerical Approaches. <i>Rock Mechanics and Rock Engineering</i>, pp.1-25. [ <a href="http://lucadalzilio.github.io/files/Bianchi_et_al-2024.pdf" target="_blank">PDF</a> ]
 
-[**28**] Kammer, D.S., McLaskey, G.C., Abercrombie, R.E., Ampuero, J.P., Cattania, C., Cocco, M., **Dal Zilio, L.**, Dresen, G., Gabriel, A.A., Ke, C.Y. and Marone, C., (2024). Earthquake energy dissipation in a fracture mechanics framework. <i>Nature Communications</i>, 15(1), p.4736.  [ <a href="http://lucadalzilio.github.io/files/Kammer_et_al-2024.pdf" target="_blank">PDF</a> ]
+[**29**] Kammer, D.S., McLaskey, G.C., Abercrombie, R.E., Ampuero, J.P., Cattania, C., Cocco, M., **Dal Zilio, L.**, Dresen, G., Gabriel, A.A., Ke, C.Y. and Marone, C., (2024). Earthquake energy dissipation in a fracture mechanics framework. <i>Nature Communications</i>, 15(1), p.4736.  [ <a href="http://lucadalzilio.github.io/files/Kammer_et_al-2024.pdf" target="_blank">PDF</a> ]
+
+[**28**] Zhang, Y., Wimpenny, S., **Dal Zilio, L.**, & Shan, X. (2024). Strain partitioning and fault kinematics in the northern Qilian Shan (NE Tibet) determined from Bayesian inference of geodetic data. <i>Geophysical Research Letters</i>, 51(9), e2023GL107324. [ <a href="http://lucadalzilio.github.io/files/Zhang_et_al-2024.pdf" target="_blank">PDF</a> ]
 
 [**27**] Huang, K., Wei, G., Chen, K., Zhang, N., Li, M., & **Dal Zilio, L** (2024). The 2023 Mw 6.8 Morocco Earthquake: A Lower Crust Event Triggered by Mantle Upwelling?. <i>Geophysical Research Letters</i>, 51(12), e2024GL109052. [ <a href="http://lucadalzilio.github.io/files/Huang_et_al-2024.pdf" target="_blank">PDF</a> ]
 
