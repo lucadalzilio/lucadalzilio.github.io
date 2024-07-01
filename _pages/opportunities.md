@@ -7,7 +7,7 @@ author_profile: true
 
 <p style='text-align: justify;'> One of my favorite parts of my job is the opportunity to work with motivated and ambitious students and postdocs who share common interests on various problems in mechanics, geophysics, numerical methods and scientific computing. </p>
 
-<p style='text-align: justify;'> Prospective Undergraduate Students / Ph.D. students / Post-docs: if you are interested in working with me, write me an e-mail with subject "Prospective student - YOURNAME", attaching your CV, a brief description of your research interests, why you are interested in working with me, and any relevant material. You can find details about doctoral programs at NTU here. </p>
+<p style='text-align: justify;'> <strong>Prospective Undergraduate Students / Ph.D. students / Post-docs</strong>: if you are interested in working with me, write me an e-mail with subject "Prospective student - YOURNAME", attaching your CV, a brief description of your research interests, why you are interested in working with me, and any relevant material. You can find details about doctoral programs at NTU <a href="https://www.ntu.edu.sg/education/graduate-programme/ase-doctor-of-philosophy-(phd)-(by-research)" target="_blank">here</a>. </p>
 
 I offer numerous projects covering a wide range of subjects in Geophysics, Geology, Computational Science, and Mechanical Engineering:
 
