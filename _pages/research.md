@@ -10,8 +10,8 @@ author_profile: true
 
 <p style='text-align: justify;'> Modeling earthquake source processes is a multi-physics, multi-scale, societally important endeavor that tightly links several geoscience disciplines. My group leverage both theoretical and computational methods to develop physics-based models and combine them with observations and laboratory experiments. With the use of these models, we aim to capture relevant problems at the societal scales of interest, including scenarios of large destructive earthquakes, prediction of strong ground motion, physics-based estimates of long-term seismic hazard, and potential for induced seismicity. </p>
 
-<video align="center" width="620" height="240" controls>
-  <source src="http://lucadalzilio.github.io/videos/sz_t1_Vslip-1.mp4" type="video/mp4" >
+<video align="center" width="620" height="440" controls>
+  <source src="http://lucadalzilio.github.io/videos/sz_t1_Vslip-1.mp4" type="video/mp4" allow="accelerometer; autoplay; clipboard-write; >
 </video>
 
 • Computational Mechanics of Geomaterials
