@@ -6,7 +6,7 @@ author_profile: true
 ---
 <a href="https://scholar.google.com/citations?user=nvfIto8AAAAJ&hl=en" target="_blank">Google Scholar profile</a>
 
-## Peer-reviewed papers [ * MSc/PhD/Post-doc (co-)advised ] 
+## Peer-reviewed papers <span style="font-weight: normal; font-size: smaller;">[ * MSc/PhD/Post-doc (co-)advised ]</span>
 
 [**29**] Bianchi, P., Selvadurai, P.A., **Dal Zilio, L.**, Salazar Vásquez, A., Madonna, C., Gerya, T. and Wiemer, S., (2024). Pre-Failure Strain Localization in Siliclastic Rocks: A Comparative Study of Laboratory and Numerical Approaches. Rock Mechanics and Rock Engineering, pp.1-25. [ <a href="http://lucadalzilio.github.io/files/Bianchi_et_al-2024.pdf" target="_blank">PDF</a> ]
 

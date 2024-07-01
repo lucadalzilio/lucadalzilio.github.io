@@ -18,8 +18,8 @@ author_profile: true
 <!-- CSS -->
 <style>
   .responsive-video {
-    width: 620px;
-    height: 440px;
+    width: 744px;
+    height: 528px;
   }
 
   /* Media query for devices with a max width of 600px (e.g., mobile devices) */
@@ -30,14 +30,6 @@ author_profile: true
     }
   }
 </style>
-
-• Computational Mechanics of Geomaterials
-
-• Earthquake Source Processes
-
-• Fundamentals of Sliding and Dynamic Friction
-
-• Solid-Fluid Interactions
 
 ## Mechanics of porous media
 
@@ -51,8 +43,8 @@ author_profile: true
 <!-- CSS -->
 <style>
   .responsive-video {
-    width: 372px;
-    height: 264px;
+    width: 446px;
+    height: 316px;
   }
 
   /* Media query for devices with a max width of 600px (e.g., mobile devices) */
@@ -64,10 +56,52 @@ author_profile: true
   }
 </style>
 
-• Fluid flow in poro-visco-elasto-plastic rocks
+## Geodynamics across the scales
 
-• Coupled models of fault slip and fluid flow
+Large-scale geodynamic processes are substantially multi-scale process where the stresses are built by long-term tectonic motions, modified by rapid deformations during earthquakes, and then restored by following multiple relaxation processes. To bridge these broad range of timescales, we develop a cross-scale thermomechanical models aimed at simulating seismic cycles and long-term tectonic deformation. We these multi-physics and multi-scale models, we aim at better understanding the tectonic and rheological controls governing the spatiotemporal occurrence of fault slip, ranging from earthquakes to slow slip and continuous creep. 
 
-• Fluid injection and induced-seismicity
+<!-- HTML -->
+<video class="responsive-video" autoplay="true" loop="true" controls>
+  <source src="http://lucadalzilio.github.io/videos/subduction2.mp4" type="video/mp4">
+</video>
 
-• Ice-sheet flow and ice-quakes
+<!-- CSS -->
+<style>
+  .responsive-video {
+    width: 744px;
+    height: 528px;
+  }
+
+  /* Media query for devices with a max width of 600px (e.g., mobile devices) */
+  @media (max-width: 600px) {
+    .responsive-video {
+      width: 100%;
+      height: auto;
+    }
+  }
+</style>
+
+## Tectonics and topographic evolution
+
+The topographic evolution in actively deforming mountain ranges is controlled by a nonlinear feedback between tectonic deformation and surface runoff induced by precipitation. Recent advances in numerical modeling have provided intriguing insights into the dynamical coupling between atmospheric and solid Earth processes. In my group we develope and apply thermal-mechanical numerical experiments to investigate the influence of surface erosion during continental plate collision and orogenesis. These models help to better understand observations obtained in the field, which provides a more comprehensive insight into topographic, crustal, and and faulting processes.
+
+<!-- HTML -->
+<video class="responsive-video" autoplay="true" loop="true" controls>
+  <source src="http://lucadalzilio.github.io/videos/hima_video.mp4" type="video/mp4">
+</video>
+
+<!-- CSS -->
+<style>
+  .responsive-video {
+    width: 744px;
+    height: 528px;
+  }
+
+  /* Media query for devices with a max width of 600px (e.g., mobile devices) */
+  @media (max-width: 600px) {
+    .responsive-video {
+      width: 100%;
+      height: auto;
+    }
+  }
+</style>
