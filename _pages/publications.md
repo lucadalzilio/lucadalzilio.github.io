@@ -8,6 +8,8 @@ author_profile: true
 
 ## Peer-reviewed papers <span style="font-weight: normal; font-size: smaller;">[ * MSc/PhD/Post-doc (co-)advised ]</span>
 
+[**31**] Gualandi, A., **Dal Zilio, L.**, Faranda, D., & Mengaldo, G. (2024). Similarities and differences between natural and simulated slow earthquakes. <i>Geophysical Research Letters</i>, 51, e2024GL109845. [ <a href="http://lucadalzilio.github.io/files/Gualandi_et_al-2024.pdf" target="_blank">PDF</a> ]
+
 [**30**] Bianchi, P., Selvadurai, P.A., **Dal Zilio, L.**, Salazar Vásquez, A., Madonna, C., Gerya, T. and Wiemer, S., (2024). Pre-Failure Strain Localization in Siliclastic Rocks: A Comparative Study of Laboratory and Numerical Approaches. <i>Rock Mechanics and Rock Engineering</i>, pp.1-25. [ <a href="http://lucadalzilio.github.io/files/Bianchi_et_al-2024.pdf" target="_blank">PDF</a> ]
 
 [**29**] Kammer, D.S., McLaskey, G.C., Abercrombie, R.E., Ampuero, J.P., Cattania, C., Cocco, M., **Dal Zilio, L.**, Dresen, G., Gabriel, A.A., Ke, C.Y. and Marone, C., (2024). Earthquake energy dissipation in a fracture mechanics framework. <i>Nature Communications</i>, 15(1), p.4736.  [ <a href="http://lucadalzilio.github.io/files/Kammer_et_al-2024.pdf" target="_blank">PDF</a> ]
