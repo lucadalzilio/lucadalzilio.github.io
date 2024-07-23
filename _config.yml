@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Luca Dal Zilio"
 title_separator          : "-"
 name                     : &name "Luca Dal Zilio"
-description              : &description "Luca Dal Zilio - Earth Observatory of Singapore (EOS)"
+description              : &description "Luca Dal Zilio, Earth Observatory of Singapore (EOS)"
 url                      : https://lucadalzilio.github.io/
 baseurl                  : "" 
 repository               : "academicpages/academicpages.github.io"
