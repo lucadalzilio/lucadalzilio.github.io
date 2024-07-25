@@ -83,7 +83,7 @@ Large-scale geodynamic processes are substantially multi-scale process where the
 
 ## Tectonics and topographic evolution
 
-The topographic evolution in actively deforming mountain ranges is controlled by a nonlinear feedback between tectonic deformation and surface runoff induced by precipitation. Recent advances in numerical modeling have provided intriguing insights into the dynamical coupling between atmospheric and solid Earth processes. In my group we develope and apply thermal-mechanical numerical experiments to investigate the influence of surface erosion during continental plate collision and orogenesis. These models help to better understand observations obtained in the field, which provides a more comprehensive insight into topographic, crustal, and and faulting processes.
+The topographic evolution in actively deforming mountain ranges is controlled by a nonlinear feedback between tectonic deformation and surface runoff induced by precipitation. Recent advances in numerical modeling have provided intriguing insights into the dynamical coupling between atmospheric and solid Earth processes. In my group we develope and apply thermal-mechanical numerical experiments to investigate the influence of surface erosion during continental plate collision and orogenesis. These models help to better understand observations obtained in the field, which provides a more comprehensive insight into topographic, crustal, and faulting processes.
 
 <!-- HTML -->
 <video class="responsive-video" autoplay="true" loop="true" controls>
