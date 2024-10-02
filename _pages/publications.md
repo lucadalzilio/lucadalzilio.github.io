@@ -8,6 +8,12 @@ author_profile: true
 
 ## Peer-reviewed papers <span style="font-weight: normal; font-size: smaller;">[ * MSc/PhD/Post-doc (co-)advised ]</span>
 
+[**33**] Chen, H., Qu, C., Zhao, D., Shan, X., Li, C., & **Dal Zilio, L.** (2024). Large‐scale extensional strain in Southern Tibet from Sentinel‐1 InSAR and GNSS data. <i>Geophysical Research Letters</i>, 51, e2024GL110512. [ <a href="http://lucadalzilio.github.io/files/Chen_et_al-2024c.pdf" target="_blank">PDF</a> ]
+
+Chen, K., Wei, G., Milliner, C., **Dal Zilio, L.**, Liang, C., & Avouac, J. P. (2024). Super-shear ruptures steered by pre-stress heterogeneities during the 2023 Kahramanmaraş earthquake doublet. <i>Nature Communications</i>, 15(1), 7004. [ <a href="http://lucadalzilio.github.io/files/Chen_et_al-2024b.pdf" target="_blank">PDF</a> ]
+
+[**32**] Chen, K., Wei, G., Milliner, C., **Dal Zilio, L.**, Liang, C., & Avouac, J. P. (2024). Super-shear ruptures steered by pre-stress heterogeneities during the 2023 Kahramanmaraş earthquake doublet. <i>Nature Communications</i>, 15(1), 7004. [ <a href="http://lucadalzilio.github.io/files/Chen_et_al-2024b.pdf" target="_blank">PDF</a> ]
+
 [**31**] Gualandi, A., **Dal Zilio, L.**, Faranda, D., & Mengaldo, G. (2024). Similarities and differences between natural and simulated slow earthquakes. <i>Geophysical Research Letters</i>, 51, e2024GL109845. [ <a href="http://lucadalzilio.github.io/files/Gualandi_et_al-2024.pdf" target="_blank">PDF</a> ]
 
 [**30**] Bianchi, P., Selvadurai, P.A., **Dal Zilio, L.**, Salazar Vásquez, A., Madonna, C., Gerya, T. and Wiemer, S., (2024). Pre-Failure Strain Localization in Siliclastic Rocks: A Comparative Study of Laboratory and Numerical Approaches. <i>Rock Mechanics and Rock Engineering</i>, pp.1-25. [ <a href="http://lucadalzilio.github.io/files/Bianchi_et_al-2024.pdf" target="_blank">PDF</a> ]
