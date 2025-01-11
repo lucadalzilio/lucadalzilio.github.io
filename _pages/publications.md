@@ -8,6 +8,16 @@ author_profile: true
 
 ## Peer-reviewed papers <span style="font-weight: normal; font-size: smaller;">[ * MSc/PhD/Post-doc (co-)advised ]</span>
 
+[**38**] Huang, L.*, Heimisson, E. R., **Dal Zilio, L.** (2025). Poroelastic effects on rupture propagation across fault stepovers. <i>Earth and Planetary Science Letters</i>, 649, 119103. [ <a href="http://lucadalzilio.github.io/files/Huang_et_al-2024.pdf" target="_blank">PDF</a> ]
+
+[**37**] Bianchi, P., Selvadurai, P. A., **Dal Zilio, L.**, Rast, M., Madonna, C., Wiemer, S. (2024). Effects of Energy Dissipation on Precursory Seismicity During Earthquake Preparation. <i>Seismica</i>, 3(2). [ <a href="http://lucadalzilio.github.io/files/Bianchi_et_al-2024b.pdf" target="_blank">PDF</a> ]
+
+[**36**] Zhou, H.*, Hu, J., **Dal Zilio, L.**, Tang, M., Li, K., Hu, X. (2024). India-Eurasia convergence speed-up by passive-margin sediment subduction. <i>Nature</i>, 635(8037), 114-120. [ <a href="http://lucadalzilio.github.io/files/Zhou_et_al-2024-Nature.pdf" target="_blank">PDF</a> ]
+
+[**35**] Obermann, A., Rosskopf, M., Durand, V., Plenkers, K., Broker, K., Rinaldi, A. P., [...], **Dal Zilio, L.**, Giardini, D. (2024). Seismic response of hectometer-scale fracture systems to hydraulic stimulation in the Bedretto Underground laboratory, Switzerland. <i>Journal of Geophysical Research: Solid Earth</i>, 129(11), e2024JB029836. [ <a href="http://lucadalzilio.github.io/files/Obermann_et_al-2024.pdf" target="_blank">PDF</a> ]
+
+[**34**] Chen, J., Liu, C., **Dal Zilio, L.**, Cao, J., Wang, H., Yang, G., Shi, Y. (2024). Decoding stress patterns of the 2023 Turkiye-Syria earthquake doublet. <i>Journal of Geophysical Research: Solid Earth</i>, 129(10), e2024JB029213. [ <a href="http://lucadalzilio.github.io/files/Chen_et_al-2024d.pdf" target="_blank">PDF</a> ]
+
 [**33**] Chen, H., Qu, C., Zhao, D., Shan, X., Li, C., & **Dal Zilio, L.** (2024). Large‐scale extensional strain in Southern Tibet from Sentinel‐1 InSAR and GNSS data. <i>Geophysical Research Letters</i>, 51, e2024GL110512. [ <a href="http://lucadalzilio.github.io/files/Chen_et_al-2024c.pdf" target="_blank">PDF</a> ]
 
 [**32**] Chen, K., Wei, G., Milliner, C., **Dal Zilio, L.**, Liang, C., & Avouac, J. P. (2024). Super-shear ruptures steered by pre-stress heterogeneities during the 2023 Kahramanmaraş earthquake doublet. <i>Nature Communications</i>, 15(1), 7004. [ <a href="http://lucadalzilio.github.io/files/Chen_et_al-2024b.pdf" target="_blank">PDF</a> ]
