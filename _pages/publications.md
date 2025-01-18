@@ -8,7 +8,7 @@ author_profile: true
 
 ## Peer-reviewed papers <span style="font-weight: normal; font-size: smaller;">[ * MSc/PhD/Post-doc (co-)advised ]</span>
 
-[**38**] Knight, B. S., Capitanio, F. A., Weinberg, R. F., **Dal Zilio, L.** (2025). Slowing convergence controls on orogeny: A three‐stage evolution of the Cenozoic India‐Asia collision. <i>Tectonics</i>, 44(1), e2024TC008509. [ <a href="http://lucadalzilio.github.io/files/Knight_et_al-2025.pdf" target="_blank">PDF</a> ]
+[**39**] Knight, B. S., Capitanio, F. A., Weinberg, R. F., **Dal Zilio, L.** (2025). Slowing convergence controls on orogeny: A three‐stage evolution of the Cenozoic India‐Asia collision. <i>Tectonics</i>, 44(1), e2024TC008509. [ <a href="http://lucadalzilio.github.io/files/Knight_et_al-2025.pdf" target="_blank">PDF</a> ]
 
 [**38**] Huang, L.*, Heimisson, E. R., **Dal Zilio, L.** (2025). Poroelastic effects on rupture propagation across fault stepovers. <i>Earth and Planetary Science Letters</i>, 649, 119103. [ <a href="http://lucadalzilio.github.io/files/Huang_et_al-2024.pdf" target="_blank">PDF</a> ]
 
