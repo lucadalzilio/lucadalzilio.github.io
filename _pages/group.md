@@ -52,6 +52,26 @@ button.prev, button.next {
 button.prev { left: 10px; }
 button.next { right: 10px; }
 </style> 
+<script>
+  let currentIndex = 0;
+  const slides = document.querySelector('.slides');
+  const images = document.querySelectorAll('.slides img');
+  const totalSlides = images.length;
+
+  function showSlide(index) {
+    slides.style.transform = 'translateX(' + (-index * 100) + '%)';
+  }
+
+  document.querySelector('.prev').addEventListener('click', () => {
+    currentIndex = (currentIndex === 0) ? totalSlides - 1 : currentIndex - 1;
+    showSlide(currentIndex);
+  });
+
+  document.querySelector('.next').addEventListener('click', () => {
+    currentIndex = (currentIndex === totalSlides - 1) ? 0 : currentIndex + 1;
+    showSlide(currentIndex);
+  });
+</script>
 
 ## Research Fellows
 
