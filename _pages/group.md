@@ -33,13 +33,10 @@ Welcome to the Computational Geophysics Lab at NTU Singapore, where we explore t
 }
 
 .slides img {
-  width: auto;
-  max-width: 100%;
+  width: 100%;
   height: auto;
-  max-height: 500px;
-  margin: 0 auto;
-  object-fit: contain;
   flex-shrink: 0;
+  object-fit: contain;
   border-radius: 4px;
 }
 
