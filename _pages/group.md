@@ -5,9 +5,31 @@ permalink: /group/
 author_profile: true
 ---
 
-Welcome to the Computational Geophysics Lab at NTU Singapore, where we explore the physics of earthquakes, underground flow, and geoenergy systems.
+Welcome to the Computational Geophysics Lab at NTU Singapore, where we explore the lithosphere deformation, physics of earthquakes, underground flow, and geoenergy systems.
 
-<img src="{{ site.baseurl }}/images/group.jpg" alt="CGL Group Photo" style="width:100%; margin-bottom: 2em;" />
+<div style="width:100%; margin-bottom: 2em;">
+  <img id="group-slideshow" src="{{ site.baseurl }}/images/group1.jpeg" alt="CGL Group Photo" style="width:100%; transition: opacity 0.5s ease-in-out;">
+</div>
+
+<script>
+  const images = [
+    "{{ site.baseurl }}/images/group1.jpeg",
+    "{{ site.baseurl }}/images/group2.jpeg",
+    "{{ site.baseurl }}/images/group3.jpeg"
+  ];
+
+  let currentIndex = 0;
+  const imgElement = document.getElementById("group-slideshow");
+
+  setInterval(() => {
+    currentIndex = (currentIndex + 1) % images.length;
+    imgElement.style.opacity = 0;
+    setTimeout(() => {
+      imgElement.src = images[currentIndex];
+      imgElement.style.opacity = 1;
+    }, 300);
+  }, 5000); // change every 5 seconds
+</script>
 
 ## Research Fellows
 
