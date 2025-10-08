@@ -5,7 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
-Welcome to the Computational Geophysics Lab at NTU Singapore, where we explore the lithosphere deformation, physics of earthquakes, underground flow, and geoenergy systems.
+The Computational Geophysics Lab at the Asian School of the Environment (ASE) and the Earth Observatory of Singapore (EOS) develops and applies state-of-the-art simulations to address critical challenges in Geohazards and Geoenergy systems monitoring.
 
 <div class="slider">
   <div class="slides">
