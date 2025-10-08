@@ -20,25 +20,27 @@ Welcome to the Computational Geophysics Lab at NTU Singapore, where we explore t
 <style>
 .slider {
   position: relative;
-  max-width: 850px;   /* constrain slider width */
-  margin: 2em auto;   /* center horizontally */
+  max-width: 800px;
+  margin: 2em auto;
   overflow: hidden;
   border-radius: 6px;
   box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
 
+/* slides container will be sized dynamically in JS; keep flex layout */
 .slides {
   display: flex;
   transition: transform 0.5s ease-in-out;
 }
 
+/* each image must take the full slider viewport width */
 .slides img {
-  max-width: 850px;  /* or 500px, depending on how small you want */
+  width: 100%;
   height: auto;
-  margin: 0 auto;
   object-fit: cover;
   flex-shrink: 0;
   border-radius: 4px;
+  display: block;
 }
 
 button.prev, button.next {
@@ -66,14 +68,20 @@ button.next { right: 10px; }
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   const slides = document.querySelector(".slides");
-  const images = document.querySelectorAll(".slides img");
+  const images = Array.from(document.querySelectorAll(".slides img"));
   const prevBtn = document.querySelector(".prev");
   const nextBtn = document.querySelector(".next");
   let index = 0;
 
+  // make the slides container wide enough to hold all images side-by-side
+  slides.style.width = `${images.length * 100}%`;
+  // set each image to the correct proportional width
+  images.forEach(img => {
+    img.style.width = `${100 / images.length}%`;
+  });
+
   function updateSlider() {
-    slides.style.transform = `translateX(-${index * 100}%)`;
-    slides.style.width = `${images.length * 100}%`;
+    slides.style.transform = `translateX(-${index * (100 / images.length)}%)`;
   }
 
   nextBtn.addEventListener("click", () => {
@@ -86,10 +94,8 @@ document.addEventListener("DOMContentLoaded", function () {
     updateSlider();
   });
 
-  slides.querySelectorAll("img").forEach(img => {
-    img.style.width = `${100 / images.length}%`;
-  });
-  updateSlider(); // initial position
+  // initialize
+  updateSlider();
 });
 </script>
 
