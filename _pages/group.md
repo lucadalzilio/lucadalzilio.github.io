@@ -12,7 +12,6 @@ Welcome to the Computational Geophysics Lab at NTU Singapore, where we explore t
     <img src="{{ site.baseurl }}/images/group1.jpeg" alt="CGL Group 1" />
     <img src="{{ site.baseurl }}/images/group2.jpeg" alt="CGL Group 2" />
     <img src="{{ site.baseurl }}/images/group3.jpeg" alt="CGL Group 3" />
-    <!-- Add more if needed -->
   </div>
   <button class="prev">&#10094;</button>
   <button class="next">&#10095;</button>
@@ -21,63 +20,48 @@ Welcome to the Computational Geophysics Lab at NTU Singapore, where we explore t
 <style>
 .slider {
   position: relative;
-  max-width: 100%;
-  margin-bottom: 2em;
+  max-width: 800px;   /* constrain slider width */
+  margin: 2em auto;   /* center horizontally */
   overflow: hidden;
+  border-radius: 6px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
 
 .slides {
   display: flex;
   transition: transform 0.5s ease-in-out;
-  width: 200%;
 }
 
 .slides img {
   width: 100%;
+  height: auto;
+  max-height: 500px;   /* adjust this to control image height */
+  object-fit: cover;
   flex-shrink: 0;
+  border-radius: 4px;
 }
 
 button.prev, button.next {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background-color: rgba(255,255,255,0.7);
+  background-color: rgba(255,255,255,0.8);
   border: none;
   font-size: 2em;
   cursor: pointer;
-  z-index: 100;
+  z-index: 10;
   padding: 0 10px;
+  border-radius: 50%;
+}
+
+button.prev:hover,
+button.next:hover {
+  background-color: rgba(255,255,255,1);
 }
 
 button.prev { left: 10px; }
 button.next { right: 10px; }
 </style>
-
-<script>
-let slideIndex = 0;
-const slides = document.querySelector(".slides");
-const totalSlides = document.querySelectorAll(".slides img").length;
-
-function showSlide(index) {
-  slides.style.transform = `translateX(-${index * 100}%)`;
-}
-
-document.querySelector(".next").addEventListener("click", () => {
-  slideIndex = (slideIndex + 1) % totalSlides;
-  showSlide(slideIndex);
-});
-
-document.querySelector(".prev").addEventListener("click", () => {
-  slideIndex = (slideIndex - 1 + totalSlides) % totalSlides;
-  showSlide(slideIndex);
-});
-
-// Autoplay
-setInterval(() => {
-  slideIndex = (slideIndex + 1) % totalSlides;
-  showSlide(slideIndex);
-}, 5000);
-</script>
 
 ## Research Fellows
 
