@@ -63,6 +63,32 @@ button.prev { left: 10px; }
 button.next { right: 10px; }
 </style>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const slides = document.querySelector(".slides");
+  const images = document.querySelectorAll(".slides img");
+  const prevBtn = document.querySelector(".prev");
+  const nextBtn = document.querySelector(".next");
+  let index = 0;
+
+  function updateSlider() {
+    slides.style.transform = `translateX(-${index * 100}%)`;
+  }
+
+  nextBtn.addEventListener("click", () => {
+    index = (index + 1) % images.length;
+    updateSlider();
+  });
+
+  prevBtn.addEventListener("click", () => {
+    index = (index - 1 + images.length) % images.length;
+    updateSlider();
+  });
+
+  updateSlider(); // initial position
+});
+</script>
+
 ## Research Fellows
 
 - Dr. Giuseppe Petrillo  
