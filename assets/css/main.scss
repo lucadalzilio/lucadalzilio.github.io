@@ -45,12 +45,23 @@ body {
   font-family: "Saira", sans-serif;
 }
 
+body,
+html,
+.sidebar,
+.navbar,
 .masthead,
 .nav__item,
 .site-nav,
-.sidebar,
 .author__content,
 .author__bio,
-.author__urls {
+.author__urls,
+a,
+h1, h2, h3, h4, h5, h6,
+li,
+ul,
+p,
+strong,
+em,
+button {
   font-family: "Saira", sans-serif !important;
 }

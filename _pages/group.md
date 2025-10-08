@@ -7,38 +7,76 @@ author_profile: true
 
 Welcome to the Computational Geophysics Lab at NTU Singapore, where we explore the lithosphere deformation, physics of earthquakes, underground flow, and geoenergy systems.
 
-<div id="group-slideshow" style="position: relative; max-width: 100%; margin-bottom: 2em;">
-  <img id="group-photo" src="{{ site.baseurl }}/images/group1.jpg" style="width: 100%; border-radius: 5px;" />
-  
-  <button onclick="prevPhoto()" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); font-size: 24px;">&#10094;</button>
-  <button onclick="nextPhoto()" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); font-size: 24px;">&#10095;</button>
+<div class="slider">
+  <div class="slides">
+    <img src="{{ site.baseurl }}/images/group1.jpeg" alt="CGL Group 1" />
+    <img src="{{ site.baseurl }}/images/group2.jpeg" alt="CGL Group 2" />
+    <img src="{{ site.baseurl }}/images/group3.jpeg" alt="CGL Group 3" />
+    <!-- Add more if needed -->
+  </div>
+  <button class="prev">&#10094;</button>
+  <button class="next">&#10095;</button>
 </div>
 
+<style>
+.slider {
+  position: relative;
+  max-width: 100%;
+  margin-bottom: 2em;
+  overflow: hidden;
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+  width: 200%;
+}
+
+.slides img {
+  width: 100%;
+  flex-shrink: 0;
+}
+
+button.prev, button.next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(255,255,255,0.7);
+  border: none;
+  font-size: 2em;
+  cursor: pointer;
+  z-index: 100;
+  padding: 0 10px;
+}
+
+button.prev { left: 10px; }
+button.next { right: 10px; }
+</style>
+
 <script>
-  const photos = [
-    "{{ site.baseurl }}/images/group1.jpg",
-    "{{ site.baseurl }}/images/group2.jpg",
-    "{{ site.baseurl }}/images/group3.jpg"
-  ];
+let slideIndex = 0;
+const slides = document.querySelector(".slides");
+const totalSlides = document.querySelectorAll(".slides img").length;
 
-  let current = 0;
-  const photoElement = document.getElementById("group-photo");
+function showSlide(index) {
+  slides.style.transform = `translateX(-${index * 100}%)`;
+}
 
-  function showPhoto(index) {
-    current = (index + photos.length) % photos.length;
-    photoElement.src = photos[current];
-  }
+document.querySelector(".next").addEventListener("click", () => {
+  slideIndex = (slideIndex + 1) % totalSlides;
+  showSlide(slideIndex);
+});
 
-  function nextPhoto() {
-    showPhoto(current + 1);
-  }
+document.querySelector(".prev").addEventListener("click", () => {
+  slideIndex = (slideIndex - 1 + totalSlides) % totalSlides;
+  showSlide(slideIndex);
+});
 
-  function prevPhoto() {
-    showPhoto(current - 1);
-  }
-
-  // Auto-slide every 5 seconds
-  setInterval(nextPhoto, 5000);
+// Autoplay
+setInterval(() => {
+  slideIndex = (slideIndex + 1) % totalSlides;
+  showSlide(slideIndex);
+}, 5000);
 </script>
 
 ## Research Fellows
