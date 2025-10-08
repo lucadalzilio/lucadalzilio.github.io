@@ -20,7 +20,7 @@ Welcome to the Computational Geophysics Lab at NTU Singapore, where we explore t
 <style>
 .slider {
   position: relative;
-  max-width: 600px;   /* constrain slider width */
+  max-width: 800px;   /* constrain slider width */
   margin: 2em auto;   /* center horizontally */
   overflow: hidden;
   border-radius: 6px;
@@ -33,10 +33,9 @@ Welcome to the Computational Geophysics Lab at NTU Singapore, where we explore t
 }
 
 .slides img {
-  max-width: 600px;  /* or 500px, depending on how small you want */
+  max-width: 800px;  /* or 500px, depending on how small you want */
   height: auto;
   margin: 0 auto;
-  display: block;
   object-fit: cover;
   flex-shrink: 0;
   border-radius: 4px;
