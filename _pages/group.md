@@ -20,7 +20,7 @@ Welcome to the Computational Geophysics Lab at NTU Singapore, where we explore t
 <style>
 .slider {
   position: relative;
-  max-width: 800px;   /* constrain slider width */
+  max-width: 850px;   /* constrain slider width */
   margin: 2em auto;   /* center horizontally */
   overflow: hidden;
   border-radius: 6px;
@@ -33,7 +33,7 @@ Welcome to the Computational Geophysics Lab at NTU Singapore, where we explore t
 }
 
 .slides img {
-  max-width: 800px;  /* or 500px, depending on how small you want */
+  max-width: 850px;  /* or 500px, depending on how small you want */
   height: auto;
   margin: 0 auto;
   object-fit: cover;
@@ -73,6 +73,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function updateSlider() {
     slides.style.transform = `translateX(-${index * 100}%)`;
+    slides.style.width = `${images.length * 100}%`;
   }
 
   nextBtn.addEventListener("click", () => {
@@ -85,6 +86,9 @@ document.addEventListener("DOMContentLoaded", function () {
     updateSlider();
   });
 
+  slides.querySelectorAll("img").forEach(img => {
+    img.style.width = `${100 / images.length}%`;
+  });
   updateSlider(); // initial position
 });
 </script>
