@@ -8,7 +8,13 @@ author_profile: true
 
 ## Peer-reviewed papers <span style="font-weight: normal; font-size: smaller;">[ * MSc/PhD/Post-doc (co-)advised ]</span>
 
-[**40**] Lippiello, E., Petrillo, G.*, Godano, C., **Dal Zilio, L.** (2025). Toward recognizing the waveform of foreshocks. <i>Geophysical Research Letters</i>, 52(15), e2025GL115466. [ <a href="http://lucadalzilio.github.io/files/Lippiello-2025-GRL.pdf" target="_blank">PDF</a> ]
+[**43**] Tang, R.*, Gan, L., Li, F., and **Dal Zilio, L.** (2025). PyQuake3D: A Python Tool for 3-D Earthquake Sequence Simulations of Seismic and Aseismic Slip. <i>Journal of Geophysical Research: Machine Learning and Computation</i>,  2, e2025JH000871. [ <a href="http://lucadalzilio.github.io/files/Tang_et_al-2025-PyQuake3D.pdf" target="_blank">PDF</a> ]
+
+[**42**] Wang, J., Chen, K., Michel, S., **Dal Zilio, L.**, Zhu, H., Xia, L., Xie, J., and Hu, S. (2025). Secondary acceleration of slip fronts driven by slow slip event coalescence in subduction zones. <i>Nature Communications</i> 16, 9561. [ <a href="http://lucadalzilio.github.io/files/Wang_et_al-2025-NComm.pdf" target="_blank">PDF</a> ]
+
+[**41**] Lippiello, E., Petrillo, G.*, Godano, C., **Dal Zilio, L.** (2025). Toward recognizing the waveform of foreshocks. <i>Geophysical Research Letters</i>, 52(15), e2025GL115466. [ <a href="http://lucadalzilio.github.io/files/Lippiello-2025-GRL.pdf" target="_blank">PDF</a> ]
+
+[**40**] Mosconi, F., Tinti, E., Casarotti, E., Gabriel, A. A., Rinaldi, A. P., **Dal Zilio, L.**, and Cocco, M. (2025). Modeling the 3D dynamic rupture of micro-earthquakes induced by fluid injection. <i>Journal of Geophysical Research: Solid Earth</i>, 130(3), e2024JB029621. [ <a href="http://lucadalzilio.github.io/files/Mosconi_et_al-2025.pdf" target="_blank">PDF</a> ]
 
 [**39**] Knight, B. S., Capitanio, F. A., Weinberg, R. F., **Dal Zilio, L.** (2025). Slowing convergence controls on orogeny: A three‐stage evolution of the Cenozoic India‐Asia collision. <i>Tectonics</i>, 44(1), e2024TC008509. [ <a href="http://lucadalzilio.github.io/files/Knight_et_al-2025.pdf" target="_blank">PDF</a> ]
 
