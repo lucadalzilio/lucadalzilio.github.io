@@ -8,7 +8,7 @@ author_profile: true
 
 ## Peer-reviewed papers <span style="font-weight: normal; font-size: smaller;">[ * MSc/PhD/Post-doc (co-)advised ]</span>
 
-[**44**] Wei, S., Wang, X., Li, C., Zeng, H., Ma, Z., Shi, Q., Chen, H., Huang, Y., Lyu, M., Liao, J., Yang, S., Bai, Y., Phyo, M.M., Oo, K., Htwe, Y.M.M., Zhang, J., **Dal Zilio, L.**, Shan, X., Chen, L., (2025). Supershear rupture sustained through a thick fault zone in the 2025 Mw 7.8 Mandalay earthquake. <i>Science</i>, 390 (6772). [ <a href="http://lucadalzilio.github.io/files/Wei_et_al-2025.pdf" target="_blank">PDF</a> ]
+[**44**] Wei, S., Wang, X., Li, C., Zeng, H., Ma, Z., Shi, Q., Chen, H., Huang, Y., Lyu, M., Liao, J., Yang, S., Bai, Y., Phyo, M.M., Oo, K., Htwe, Y.M.M., Zhang, J., **Dal Zilio, L.**, Shan, X., Chen, L., (2025). Supershear rupture sustained through a thick fault zone in the 2025 Mw 7.8 Mandalay earthquake. <i>Science</i>, 390 (6772). [ <a href="https://www.science.org/doi/10.1126/science.adz2101" target="_blank">PDF</a> ]
 
 [**43**] Tang, R.*, Gan, L., Li, F., and **Dal Zilio, L.** (2025). PyQuake3D: A Python Tool for 3-D Earthquake Sequence Simulations of Seismic and Aseismic Slip. <i>Journal of Geophysical Research: Machine Learning and Computation</i>,  2, e2025JH000871. [ <a href="http://lucadalzilio.github.io/files/Tang_et_al-2025-PyQuake3D.pdf" target="_blank">PDF</a> ]
 
