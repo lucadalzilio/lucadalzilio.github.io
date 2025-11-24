@@ -8,7 +8,9 @@ author_profile: true
 
 ## Peer-reviewed papers <span style="font-weight: normal; font-size: smaller;">[ * MSc/PhD/Post-doc (co-)advised ]</span>
 
-[**45**] Zhao, W., An, M., **Dal Zilio, L.**, Zhao, L., Zhu, H., Shen, X., Gan, Q., Zhang, F., Elsworth, D. (2025) Coupled evolution of seismicity and permeability in fault zones. <i>Nature Commun. Earth Environ.</i> 6, 918. [ <a href="http://lucadalzilio.github.io/files/Zhao_et_al-2025.pdf" target="_blank">PDF</a> ]
+[**46**] Yin, X., Li, T., Zhang, Y., Peng, Z., **Dal Zilio, L.**, Chen, Z., Cui, H., Qian, L., Sun, X., Lu, R. and Guo, B., Yang, W., Chen, J., and Chen, J. (2025). Interlacing ruptures of the 2024 Wushi earthquake (Chinese Tian Shan) controlled by structural inheritance. <i>Nature Commun. Earth Environ.</i> 6, 918. [ <a href="http://lucadalzilio.github.io/files/Yin_et_al-2025.pdf" target="_blank">PDF</a> ]
+
+[**45**] Zhao, W., An, M., **Dal Zilio, L.**, Zhao, L., Zhu, H., Shen, X., Gan, Q., Zhang, F., Elsworth, D. (2025). Coupled evolution of seismicity and permeability in fault zones. <i>Nature Commun. Earth Environ.</i> 6, 918. [ <a href="http://lucadalzilio.github.io/files/Zhao_et_al-2025.pdf" target="_blank">PDF</a> ]
 
 [**44**] Wei, S., Wang, X., Li, C., Zeng, H., Ma, Z., Shi, Q., Chen, H., Huang, Y., Lyu, M., Liao, J., Yang, S., Bai, Y., Phyo, M.M., Oo, K., Htwe, Y.M.M., Zhang, J., **Dal Zilio, L.**, Shan, X., Chen, L., (2025). Supershear rupture sustained through a thick fault zone in the 2025 Mw 7.8 Mandalay earthquake. <i>Science</i>, 390 (6772). [ <a href="https://www.science.org/doi/10.1126/science.adz2101" target="_blank">PDF</a> ]
 
