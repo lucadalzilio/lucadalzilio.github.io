@@ -8,6 +8,8 @@ author_profile: true
 
 ## Peer-reviewed papers <span style="font-weight: normal; font-size: smaller;">[ * MSc/PhD/Post-doc (co-)advised ]</span>
 
+[**47**] Capitanio, F.A., Gollapalli, T., Radhakrishna M., Graciosa, J. C., Mohd, Z., Beall, A., **Dal Zilio, L.**  (2025). Bridging the gap between subduction dynamics and the long-term strength of the Sunda megathrust. <i>Nature Communications</i> 16, 10781. [ <a href="http://lucadalzilio.github.io/files/Capitanio_et_al-2025.pdf" target="_blank">PDF</a> ]
+
 [**46**] Yin, X., Li, T., Zhang, Y., Peng, Z., **Dal Zilio, L.**, Chen, Z., Cui, H., Qian, L., Sun, X., Lu, R. and Guo, B., Yang, W., Chen, J., and Chen, J. (2025). Interlacing ruptures of the 2024 Wushi earthquake (Chinese Tian Shan) controlled by structural inheritance. <i>Nature Commun. Earth Environ.</i> 6, 918. [ <a href="http://lucadalzilio.github.io/files/Yin_et_al-2025.pdf" target="_blank">PDF</a> ]
 
 [**45**] Zhao, W., An, M., **Dal Zilio, L.**, Zhao, L., Zhu, H., Shen, X., Gan, Q., Zhang, F., Elsworth, D. (2025). Coupled evolution of seismicity and permeability in fault zones. <i>Nature Commun. Earth Environ.</i> 6, 918. [ <a href="http://lucadalzilio.github.io/files/Zhao_et_al-2025.pdf" target="_blank">PDF</a> ]
