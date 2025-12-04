@@ -8,6 +8,8 @@ author_profile: true
 
 ## Peer-reviewed papers <span style="font-weight: normal; font-size: smaller;">[ * MSc/PhD/Post-doc (co-)advised ]</span>
 
+[**48**] Liu, Q., Zhang, Y., Ma, Z., **Dal Zilio, L.**, Zhang, G., Li, H., and Shan, X. (2025). Seismogenic Thickening in the Pamir Plateau From Craton Underthrusting Revealed by the 2023 Mw 6.9 Earthquake. <i>Geophysical Research Letters</i>, 52, e2025GL117802. [ <a href="http://lucadalzilio.github.io/files/Liu_et_al-2025-pamir_plateau.pdf" target="_blank">PDF</a> ]
+
 [**47**] Capitanio, F.A., Gollapalli, T., Radhakrishna M., Graciosa, J. C., Mohd, Z., Beall, A., **Dal Zilio, L.**  (2025). Bridging the gap between subduction dynamics and the long-term strength of the Sunda megathrust. <i>Nature Communications</i> 16, 10781. [ <a href="http://lucadalzilio.github.io/files/Capitanio_et_al-2025.pdf" target="_blank">PDF</a> ]
 
 [**46**] Yin, X., Li, T., Zhang, Y., Peng, Z., **Dal Zilio, L.**, Chen, Z., Cui, H., Qian, L., Sun, X., Lu, R. and Guo, B., Yang, W., Chen, J., and Chen, J. (2025). Interlacing ruptures of the 2024 Wushi earthquake (Chinese Tian Shan) controlled by structural inheritance. <i>Nature Commun. Earth Environ.</i> 6, 918. [ <a href="http://lucadalzilio.github.io/files/Yin_et_al-2025.pdf" target="_blank">PDF</a> ]
