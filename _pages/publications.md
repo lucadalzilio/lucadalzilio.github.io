@@ -8,7 +8,13 @@ author_profile: true
 
 ## Peer-reviewed papers <span style="font-weight: normal; font-size: smaller;">[ * MSc/PhD/Post-doc (co-)advised ]</span>
 
-[**49**] Ma, Z., Li, C., Zeng, H., Chen, H., Lyu, M., Zhang, Y., **Dal Zilio, L.**, Shan, X. and Wei, S. (2026). Deciphering stress perturbations throughout the 2025 Mw 7.1 Dingri, Southern Xizang Earthquake. <i>Nature Communications</i>, 17, 1378 [ <a href="http://lucadalzilio.github.io/files/Ma_et_al-2026-Dingri.pdf" target="_blank">PDF</a> ]
+[**52**] Petrillo, G., Gentili, S., **Dal Zilio, L.** (2026). Graph-based probabilistic earthquake clustering and forecasting in Sumatra. <i>Tectonophysics</i>, 926, 231137. [ <a href="http://lucadalzilio.github.io/files/Petrillo_et_al-2026.pdf" target="_blank">PDF</a> ]
+
+[**51**] Meier, M. A., Selvadurai, P., Gischig, V., and the BedrettoLab-FEAR team. (2026). Activating a Natural Fault Zone in the Swiss Alps. <i>Seismica</i>, 5(1). [ <a href="http://lucadalzilio.github.io/files/Meier_2026.pdf" target="_blank">PDF</a> ]
+
+[**50**] Karaoğlu, Ö., Koulakov, I., Eken, T., Bazargan, M., Gerya, T., **Dal Zilio, L.** and Gudmundsson, A., (2026). Fault-controlled magma pathways driving seismicity and eruption risk in Eastern Turkey. <i>Communications Earth & Environment</i>. [ <a href="https://www.nature.com/articles/s43247-026-03286-5" target="_blank">PDF</a> ]
+
+[**49**] Ma, Z., Li, C., Zeng, H., Chen, H., Lyu, M., Zhang, Y., **Dal Zilio, L.**, Shan, X. and Wei, S. (2026). Deciphering stress perturbations throughout the 2025 Mw 7.1 Dingri, Southern Xizang Earthquake. <i>Nature Communications</i>, 17, 1378. [ <a href="http://lucadalzilio.github.io/files/Ma_et_al-2026-Dingri.pdf" target="_blank">PDF</a> ]
 
 [**48**] Liu, Q., Zhang, Y., Ma, Z., **Dal Zilio, L.**, Zhang, G., Li, H., and Shan, X. (2025). Seismogenic Thickening in the Pamir Plateau From Craton Underthrusting Revealed by the 2023 Mw 6.9 Earthquake. <i>Geophysical Research Letters</i>, 52, e2025GL117802. [ <a href="http://lucadalzilio.github.io/files/Liu_et_al-2025-pamir_plateau.pdf" target="_blank">PDF</a> ]
 
