@@ -78,32 +78,27 @@ button.next { right: 10px; }
 
 ## Research Fellows
 
-- Dr. Rongjiang Tang  
+- Dr. Rongjiang Tang
+- Dr. Giuseppe Petrillo  
 - Dr. Eyup Sopaci  
 - Dr. Ignatius Ryan Pranantyo  
-- Dr. Jad Doghman
-
 
 ## PhD Students
 
 - Zhenhuan Wang (2024–2028)  
 - Wenzhi Zhao (2025–2029)  
 
-
 ## Research Assistant
 
 - Xi Chen (2026)  
-- Yoong Ken Tan (2026)
+
+## Master Students
+
+- Lewis Edmond-Lovell (2024–2025)  
 
 ## Visiting
 
-- Deborah Osei-Tutu, International Centre for Theoretical Physics (ICTP), Trieste (2026)
-- Jiayi Ye, ETH Zurich (2026)  
-- Shupeng Chai, Hong Kong Polytechnic University (2025–2026)  
-- Yajin Pang, China Earthquake Administration, Tianjin, China (2025)  
-- Han Chen, China Earthquake Administration, Beijing, China (2024–2025)  
-
-## Former Members
-
-- Dr. Giuseppe Petrillo, Research Fellow (2024–2026) – now Asst. Prof. of Statistical Mechanics at École Normale Supérieure, Lyon, France  
-- Lewis Edmond-Lovell, Master Student (2024–2025)  
+- Jiayi Ye, ETH Zurich (2026) 
+- Shupeng Chai, Hong Kong Polytechnic University (2025-2026) 
+- Yajin Pang, China Earthquake Administration, Tianjin, China (2025) 
+- Han Chen, China Earthquake Administration, Beijing, China (2024-2025)  
