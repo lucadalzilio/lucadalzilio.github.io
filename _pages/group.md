@@ -12,6 +12,7 @@ The Computational Geophysics Lab at the Asian School of the Environment (ASE) an
     <img src="{{ site.baseurl }}/images/group1.jpeg" alt="CGL Group 1" />
     <img src="{{ site.baseurl }}/images/group2.jpeg" alt="CGL Group 2" />
     <img src="{{ site.baseurl }}/images/group3.jpeg" alt="CGL Group 3" />
+    <img src="{{ site.baseurl }}/images/group4.jpeg" alt="CGL Group 4" />
     <!-- Add more if needed -->
   </div>
   <button class="prev">&#10094;</button>
@@ -105,5 +106,5 @@ button.next { right: 10px; }
 
 ## Former Members
 
-- Dr. Giuseppe Petrillo, Research Fellow (2024–2026) – now Asst. Prof. of Statistical Mechanics at École Normale Supérieure, Lyon, France  
+- Dr. Giuseppe Petrillo, Research Fellow (2024–2026) – now Asst. Prof. at École Normale Supérieure, Lyon, France  
 - Lewis Edmond-Lovell, Master Student (2024–2025)  
