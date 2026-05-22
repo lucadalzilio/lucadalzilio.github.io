@@ -8,6 +8,10 @@ author_profile: true
 
 ## Peer-reviewed papers <span style="font-weight: normal; font-size: smaller;">[ * MSc/PhD/Post-doc (co-)advised ]</span>
 
+[**55**] Ye, J., **Dal Zilio, L.**, Passarelli, L., Giardini, D. (2026). Fault hydromechanics control the emergence of seismic and aseismic slip patterns. <i>Tectonophysics</i>, 933, 231242. [ <a href="http://lucadalzilio.github.io/files/Ye_et_al-2026.pdf" target="_blank">PDF</a> ] 
+
+[**54**] Oryan, B., Gabriel, A.-A., Bürgmann, R., Calais, E., Cheng, G., Chlieh, M., Cosenza-Muralles, B., Cruz-Atienza, V. M., **Dal Zilio, L.**, DeMets, C., Ellis, A., Feng, L., et al. (2026). The Coupling Cloud: A community database of megathrust kinematic coupling models. <i>Seismica</i>, 5(1). [ <a href="http://lucadalzilio.github.io/files/Oryan_et_al-2026.pdf" target="_blank">PDF</a> ]  
+
 [**53**] Wei, G., Chen, K., Li, M., Huang, K., Zhu, Q., Yuan, L., **Dal Zilio, L.** (2026). Pre-and co-seismic stress loading promoted low-angle splay fault during the 2025 Mw 7.1 Tingri earthquake. <i>Nature Commun. Earth Environ.</i> [ <a href="https://doi.org/10.1038/s43247-026-03325-1" target="_blank">PDF</a> ] 
 
 [**52**] Petrillo, G., Gentili, S., **Dal Zilio, L.** (2026). Graph-based probabilistic earthquake clustering and forecasting in Sumatra. <i>Tectonophysics</i>, 926, 231137. [ <a href="http://lucadalzilio.github.io/files/Petrillo_et_al-2026.pdf" target="_blank">PDF</a> ]
