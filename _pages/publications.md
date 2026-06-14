@@ -8,6 +8,8 @@ author_profile: true
 
 ## Peer-reviewed papers <span style="font-weight: normal; font-size: smaller;">[ * MSc/PhD/Post-doc (co-)advised ]</span>
 
+[**56**] Hegyi, B., **Dal Zilio, L.**, L., Behr, W., & Gerya, T. (2026). Modeling fluid-driven fault slip dynamics with shear-induced dilation and compaction. <i>Seismica</i>, 5(1). [ <a href="http://lucadalzilio.github.io/files/Hegyi_2026.pdf" target="_blank">PDF</a> ]
+
 [**55**] Ye, J.*, **Dal Zilio, L.**, Passarelli, L., Giardini, D. (2026). Fault hydromechanics control the emergence of seismic and aseismic slip patterns. <i>Tectonophysics</i>, 933, 231242. [ <a href="http://lucadalzilio.github.io/files/Ye_et_al-2026.pdf" target="_blank">PDF</a> ] 
 
 [**54**] Oryan, B., Gabriel, A.-A., Bürgmann, R., Calais, E., Cheng, G., Chlieh, M., Cosenza-Muralles, B., Cruz-Atienza, V. M., **Dal Zilio, L.**, DeMets, C., Ellis, A., Feng, L., et al. (2026). The Coupling Cloud: A community database of megathrust kinematic coupling models. <i>Seismica</i>, 5(1). [ <a href="http://lucadalzilio.github.io/files/Oryan_et_al-2026.pdf" target="_blank">PDF</a> ]  
