@@ -8,11 +8,11 @@ author_profile: true
 
 ## Peer-reviewed papers <span style="font-weight: normal; font-size: smaller;">[ * MSc/PhD/Post-doc (co-)advised ]</span>
 
-[**58**] Ye, J., **Dal Zilio, L.**, & Giardini, D. (2026). Back‐propagating earthquake rupture controlled by fluid‐modulated effective normal stress. <i>Geophysical Research Letters</i>, 53(14). [ <a href="http://lucadalzilio.github.io/files/Ye_et_al-2026b.pdf" target="_blank">PDF</a> ]
+[**58**] Ye, J.*, **Dal Zilio, L.**, & Giardini, D. (2026). Back‐propagating earthquake rupture controlled by fluid‐modulated effective normal stress. <i>Geophysical Research Letters</i>, 53(14). [ <a href="http://lucadalzilio.github.io/files/Ye_et_al-2026b.pdf" target="_blank">PDF</a> ]
 
 [**57**] Wang, J., Chen, K., Cui, W., Song, J., Ma, Q., & **Dal Zilio, L.** (2026). Physics-informed neural networks for coupled rate-and-state friction and pore-pressure evolution. <i>Geophysical Journal International</i>, 246(3). [ <a href="http://lucadalzilio.github.io/files/Wang_et_al-2026.pdf" target="_blank">PDF</a> ]
 
-[**56**] Hegyi, B., **Dal Zilio, L.**, Behr, W., & Gerya, T. (2026). Modeling fluid-driven fault slip dynamics with shear-induced dilation and compaction. <i>Seismica</i>, 5(1). [ <a href="http://lucadalzilio.github.io/files/Hegyi_2026.pdf" target="_blank">PDF</a> ]
+[**56**] Hegyi, B.*, **Dal Zilio, L.**, Behr, W., & Gerya, T. (2026). Modeling fluid-driven fault slip dynamics with shear-induced dilation and compaction. <i>Seismica</i>, 5(1). [ <a href="http://lucadalzilio.github.io/files/Hegyi_2026.pdf" target="_blank">PDF</a> ]
 
 [**55**] Ye, J.*, **Dal Zilio, L.**, Passarelli, L., Giardini, D. (2026). Fault hydromechanics control the emergence of seismic and aseismic slip patterns. <i>Tectonophysics</i>, 933, 231242. [ <a href="http://lucadalzilio.github.io/files/Ye_et_al-2026.pdf" target="_blank">PDF</a> ] 
 
