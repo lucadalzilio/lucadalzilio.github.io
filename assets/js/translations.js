@@ -14,6 +14,7 @@ window.LDZ_IT = {
   "nav.media": "Media",
   "nav.bio": "Bio",
   "nav.research": "Ricerca",
+  "nav.publications": "Pubblicazioni",
   "nav.book": "Libro",
   "nav.cta": "Prenota un keynote",
 

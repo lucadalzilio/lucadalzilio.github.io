@@ -1011,6 +1011,16 @@ footer {
 }
 
 /* ---------- Responsive ---------- */
+@media (max-width: 1240px) {
+  .nav-links { gap: 22px; }
+  .nav-links a { font-size: 12.5px; }
+}
+
+@media (max-width: 1060px) {
+  .nav-name { white-space: nowrap; }
+  .nav-links a:not(.cta) { display: none; }
+}
+
 @media (max-width: 980px) {
   .hero-media img { object-position: 78% 22%; }
   .bio-grid { grid-template-columns: 1fr; gap: 40px; }
@@ -1046,5 +1056,7 @@ footer {
   .gallery-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
   .quote-band, .pillars, .bio, .gallery, .contact { padding-top: 80px; padding-bottom: 80px; }
   .hero-sub { display: none; }
+  .scroll-cue { bottom: 12px; left: 24px; }
+  .scroll-cue .line { height: 18px; }
   .quote-band--photo .quote-media img { object-position: 74% 68%; }
 }
