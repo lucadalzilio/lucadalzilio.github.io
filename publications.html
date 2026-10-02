@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Publications — Luca Dal Zilio</title>
+<meta name="description" content="Peer-reviewed publications by Luca Dal Zilio on earthquakes, plate tectonics, and computational geophysics.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/styles.css">
+<link rel="icon" href="favicon.ico">
+<style>
+  .pub-hero { padding: 170px 0 60px; border-bottom: 1px solid var(--line); }
+  .pub-hero h1 { font-family: var(--serif); font-weight: 600; font-size: clamp(38px, 5vw, 60px); letter-spacing: -0.01em; margin: 14px 0 20px; }
+  .pub-hero p { max-width: 640px; color: var(--muted); font-size: 16.5px; line-height: 1.65; }
+  .pub-hero .pub-meta { margin-top: 28px; display: flex; gap: 28px; flex-wrap: wrap; align-items: center; }
+  .pub-hero .pub-meta .stat { font-family: var(--serif); font-size: 15px; color: var(--ink); }
+  .pub-hero .pub-meta .stat b { font-size: 26px; font-weight: 600; margin-right: 6px; }
+  .year-nav { position: sticky; top: 64px; z-index: 50; background: rgba(255,255,255,0.94); backdrop-filter: blur(10px); border-bottom: 1px solid var(--line); }
+  .year-nav .wrap { display: flex; gap: 6px; flex-wrap: wrap; padding-top: 12px; padding-bottom: 12px; }
+  .year-nav a { font-size: 12.5px; letter-spacing: 0.08em; padding: 6px 12px; border-radius: 999px; color: var(--muted); transition: background .2s ease, color .2s ease; }
+  .year-nav a:hover { background: var(--paper-dim); color: var(--ink); }
+  .pubs { padding: 40px 0 120px; }
+  .pub-year { display: grid; grid-template-columns: 140px 1fr; gap: 40px; padding: 48px 0; border-bottom: 1px solid var(--line); }
+  .pub-year h2 { font-family: var(--serif); font-weight: 600; font-size: 34px; color: var(--accent); line-height: 1; position: sticky; top: 130px; }
+  .pub-list { list-style: none; }
+  .pub { display: grid; grid-template-columns: 34px 1fr auto; gap: 18px; align-items: start; padding: 18px 0; border-bottom: 1px solid var(--line); font-size: 14.5px; line-height: 1.6; color: var(--ink); }
+  .pub:last-child { border-bottom: none; }
+  .pub-num { font-family: var(--serif); color: var(--muted); font-size: 13px; padding-top: 2px; }
+  .pub-body strong { font-weight: 600; }
+  .pub-body i { font-style: italic; color: #4B4D52; }
+  .pub-body .adv { color: var(--accent); }
+  .pub-link { font-size: 11.5px; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 600; border: 1px solid var(--ink); border-radius: 999px; padding: 6px 14px; white-space: nowrap; transition: background .25s ease, color .25s ease; }
+  .pub-link:hover { background: var(--ink); color: #fff; }
+  .pub-note { color: var(--muted); font-size: 13px; margin-top: 18px; }
+  .pub-note .adv { color: var(--accent); }
+  .site-nav .nav-name, .site-nav .nav-links a { color: var(--ink); }
+  .site-nav .nav-links a.cta { border-color: var(--ink); }
+  @media (max-width: 800px) {
+    .pub-year { grid-template-columns: 1fr; gap: 18px; }
+    .pub-year h2 { position: static; }
+    .pub { grid-template-columns: 28px 1fr; }
+    .pub-link { grid-column: 2; justify-self: start; }
+    .pub-hero { padding-top: 130px; }
+  }
+</style>
+</head>
+<body>
+
+<nav class="site-nav scrolled">
+  <a href="index.html" class="nav-name">Luca Dal Zilio</a>
+  <div class="nav-links">
+    <a href="index.html#speaking" data-i18n="nav.speaking">Speaking</a>
+    <a href="index.html#media" data-i18n="nav.media">Media</a>
+    <a href="index.html#bio" data-i18n="nav.bio">Bio</a>
+    <a href="index.html#research" data-i18n="nav.research">Research</a>
+    <a href="index.html#book" data-i18n="nav.book">Book</a>
+    <div class="lang-switch" role="group" aria-label="Language">
+      <button type="button" data-lang="en" class="is-active" aria-pressed="true">EN</button><span class="sep">/</span><button type="button" data-lang="it" aria-pressed="false">IT</button>
+    </div>
+    <a href="index.html#contact" class="cta" data-i18n="nav.cta">Book a Keynote</a>
+  </div>
+</nav>
+
+<header class="pub-hero">
+  <div class="wrap">
+    <div class="eyebrow" data-i18n="pubs.eyebrow">Research</div>
+    <h1 data-i18n="pubs.h1">Publications</h1>
+    <p data-i18n="pubs.intro">Peer-reviewed papers on earthquakes, plate tectonics, and the physics of the Earth, from 2015 to today. Each entry links to the paper.</p>
+    <div class="pub-meta">
+      <span class="stat"><b>61</b> <span data-i18n="pubs.count">peer-reviewed papers</span></span>
+      <a href="https://scholar.google.com/citations?user=nvfIto8AAAAJ&hl=en" target="_blank" rel="noopener" class="text-link">Google Scholar &rarr;</a>
+      <a href="publications/Thesis_Dal_Zilio.pdf" target="_blank" rel="noopener" class="text-link" data-i18n="pubs.thesis">PhD thesis &rarr;</a>
+    </div>
+    <p class="pub-note" data-i18n="pubs.note"><span class="adv">&#8727;</span> MSc, PhD, or postdoctoral researcher (co-)advised by Luca.</p>
+  </div>
+</header>
+
+<div class="year-nav"><div class="wrap"><!-- years:start -->
+<a href="#y2026">2026</a> <a href="#y2025">2025</a> <a href="#y2024">2024</a> <a href="#y2023">2023</a> <a href="#y2022">2022</a> <a href="#y2021">2021</a> <a href="#y2020">2020</a> <a href="#y2019">2019</a> <a href="#y2018">2018</a> <a href="#y2017">2017</a> <a href="#y2015">2015</a>
+<!-- years:end --></div></div>
+
+<main class="pubs">
+  <div class="wrap">
+<!-- publications:start -->
+    <div class="pub-year reveal" id="y2026">
+      <h2>2026</h2>
+      <ul class="pub-list">
+      <li class="pub">
+        <span class="pub-num">61</span>
+        <div class="pub-body">Petrillo, G., <strong>Dal Zilio, L.</strong> (2026). A machine learning diagnostic test for nonstationary ETAS aftershock models. <i>Earth and Planetary Science Letters</i>, 695, 120308.</div>
+        <a class="pub-link" href="publications/Petrillo-Dal-Zilio_2026_EPSL.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">60</span>
+        <div class="pub-body">Niroula, G. P., Stirling, M. W., Williams, J., Gerstenberger, M., <strong>Dal Zilio, L.</strong> (2026). Seismic Hazard on the Main Himalayan Thrust from Physics-Based Earthquake Simulations. <i>Seismica</i>, 5(2).</div>
+        <a class="pub-link" href="publications/govinda_niroula_et_al-2026.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">59</span>
+        <div class="pub-body">Gischig, V. S., Meier, M.‐A., Lambiase, A., Jiang, D., Hertrich, M., Gholizadeh Doonechaly, N., ..., <strong>Dal Zilio, L.</strong>, et al. (2026). Hydraulic stimulation experiments attempting to enhance induced seismicity for earthquake physics research. Journal of Geophysical Research: Solid Earth, 131.</div>
+        <a class="pub-link" href="publications/Gischig_et_al-2026.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">58</span>
+        <div class="pub-body">Ye, J., <strong>Dal Zilio, L.</strong>, &amp; Giardini, D. (2026). Back‐propagating earthquake rupture controlled by fluid‐modulated effective normal stress. <i>Geophysical Research Letters</i>, 53(14). <span class="adv" title="MSc / PhD / postdoc (co-)advised by Luca">&#8727;</span></div>
+        <a class="pub-link" href="publications/Ye_et_al-2026b.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">57</span>
+        <div class="pub-body">Wang, J., Chen, K., Cui, W., Song, J., Ma, Q., &amp; <strong>Dal Zilio, L.</strong> (2026). Physics-informed neural networks for coupled rate-and-state friction and pore-pressure evolution. <i>Geophysical Journal International</i>, 246(3).</div>
+        <a class="pub-link" href="publications/Wang_et_al-2026.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">56</span>
+        <div class="pub-body">Hegyi, B., <strong>Dal Zilio, L.</strong>, Behr, W., &amp; Gerya, T. (2026). Modeling fluid-driven fault slip dynamics with shear-induced dilation and compaction. <i>Seismica</i>, 5(1). <span class="adv" title="MSc / PhD / postdoc (co-)advised by Luca">&#8727;</span></div>
+        <a class="pub-link" href="publications/Hegyi_2026.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">55</span>
+        <div class="pub-body">Ye, J., <strong>Dal Zilio, L.</strong>, Passarelli, L., Giardini, D. (2026). Fault hydromechanics control the emergence of seismic and aseismic slip patterns. <i>Tectonophysics</i>, 933, 231242. <span class="adv" title="MSc / PhD / postdoc (co-)advised by Luca">&#8727;</span></div>
+        <a class="pub-link" href="publications/Ye_et_al-2026.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">54</span>
+        <div class="pub-body">Oryan, B., Gabriel, A.-A., Bürgmann, R., Calais, E., Cheng, G., Chlieh, M., Cosenza-Muralles, B., Cruz-Atienza, V. M., <strong>Dal Zilio, L.</strong>, DeMets, C., Ellis, A., Feng, L., et al. (2026). The Coupling Cloud: A community database of megathrust kinematic coupling models. <i>Seismica</i>, 5(1).</div>
+        <a class="pub-link" href="publications/Oryan_et_al-2026.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">53</span>
+        <div class="pub-body">Wei, G., Chen, K., Li, M., Huang, K., Zhu, Q., Yuan, L., <strong>Dal Zilio, L.</strong> (2026). Pre-and co-seismic stress loading promoted low-angle splay fault during the 2025 Mw 7.1 Tingri earthquake. <i>Nature Commun. Earth Environ.</i></div>
+        <a class="pub-link" href="publications/Wei_et_al-2026.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">52</span>
+        <div class="pub-body">Petrillo, G., Gentili, S., <strong>Dal Zilio, L.</strong> (2026). Graph-based probabilistic earthquake clustering and forecasting in Sumatra. <i>Tectonophysics</i>, 926, 231137.</div>
+        <a class="pub-link" href="publications/Petrillo_et_al-2026.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">51</span>
+        <div class="pub-body">Meier, M. A., Selvadurai, P., Gischig, V., and the BedrettoLab-FEAR team. (2026). Activating a Natural Fault Zone in the Swiss Alps. <i>Seismica</i>, 5(1).</div>
+        <a class="pub-link" href="publications/Meier_2026.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">50</span>
+        <div class="pub-body">Karaoğlu, Ö., Koulakov, I., Eken, T., Bazargan, M., Gerya, T., <strong>Dal Zilio, L.</strong> and Gudmundsson, A., (2026). Fault-controlled magma pathways driving seismicity and eruption risk in Eastern Turkey. <i>Communications Earth &amp; Environment</i>.</div>
+        <a class="pub-link" href="publications/Karaoglu_et_al-2026.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">49</span>
+        <div class="pub-body">Ma, Z., Li, C., Zeng, H., Chen, H., Lyu, M., Zhang, Y., <strong>Dal Zilio, L.</strong>, Shan, X. and Wei, S. (2026). Deciphering stress perturbations throughout the 2025 Mw 7.1 Dingri, Southern Xizang Earthquake. <i>Nature Communications</i>, 17, 1378.</div>
+        <a class="pub-link" href="publications/Ma_et_al-2026-Dingri.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      </ul>
+    </div>
+    <div class="pub-year reveal" id="y2025">
+      <h2>2025</h2>
+      <ul class="pub-list">
+      <li class="pub">
+        <span class="pub-num">48</span>
+        <div class="pub-body">Liu, Q., Zhang, Y., Ma, Z., <strong>Dal Zilio, L.</strong>, Zhang, G., Li, H., and Shan, X. (2025). Seismogenic Thickening in the Pamir Plateau From Craton Underthrusting Revealed by the 2023 Mw 6.9 Earthquake. <i>Geophysical Research Letters</i>, 52, e2025GL117802.</div>
+        <a class="pub-link" href="publications/Liu_et_al-2025-pamir_plateau.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">47</span>
+        <div class="pub-body">Capitanio, F.A., Gollapalli, T., Radhakrishna M., Graciosa, J. C., Mohd, Z., Beall, A., <strong>Dal Zilio, L.</strong>  (2025). Bridging the gap between subduction dynamics and the long-term strength of the Sunda megathrust. <i>Nature Communications</i> 16, 10781.</div>
+        <a class="pub-link" href="publications/Capitanio_et_al-2025.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">46</span>
+        <div class="pub-body">Yin, X., Li, T., Zhang, Y., Peng, Z., <strong>Dal Zilio, L.</strong>, Chen, Z., Cui, H., Qian, L., Sun, X., Lu, R. and Guo, B., Yang, W., Chen, J., and Chen, J. (2025). Interlacing ruptures of the 2024 Wushi earthquake (Chinese Tian Shan) controlled by structural inheritance. <i>Nature Commun. Earth Environ.</i> 6, 918.</div>
+        <a class="pub-link" href="publications/Yin_et_al-2025.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">45</span>
+        <div class="pub-body">Zhao, W., An, M., <strong>Dal Zilio, L.</strong>, Zhao, L., Zhu, H., Shen, X., Gan, Q., Zhang, F., Elsworth, D. (2025). Coupled evolution of seismicity and permeability in fault zones. <i>Nature Commun. Earth Environ.</i> 6, 918. <span class="adv" title="MSc / PhD / postdoc (co-)advised by Luca">&#8727;</span></div>
+        <a class="pub-link" href="publications/Zhao_et_al-2025.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">44</span>
+        <div class="pub-body">Wei, S., Wang, X., Li, C., Zeng, H., Ma, Z., Shi, Q., Chen, H., Huang, Y., Lyu, M., Liao, J., Yang, S., Bai, Y., Phyo, M.M., Oo, K., Htwe, Y.M.M., Zhang, J., <strong>Dal Zilio, L.</strong>, Shan, X., Chen, L., (2025). Supershear rupture sustained through a thick fault zone in the 2025 Mw 7.8 Mandalay earthquake. <i>Science</i>, 390 (6772).</div>
+        <a class="pub-link" href="publications/Wei_et_al-2025.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">43</span>
+        <div class="pub-body">Tang, R., Gan, L., Li, F., and <strong>Dal Zilio, L.</strong> (2025). PyQuake3D: A Python Tool for 3-D Earthquake Sequence Simulations of Seismic and Aseismic Slip. <i>Journal of Geophysical Research: Machine Learning and Computation</i>,  2, e2025JH000871. <span class="adv" title="MSc / PhD / postdoc (co-)advised by Luca">&#8727;</span></div>
+        <a class="pub-link" href="publications/Tang_et_al-2025-PyQuake3D.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">42</span>
+        <div class="pub-body">Wang, J., Chen, K., Michel, S., <strong>Dal Zilio, L.</strong>, Zhu, H., Xia, L., Xie, J., and Hu, S. (2025). Secondary acceleration of slip fronts driven by slow slip event coalescence in subduction zones. <i>Nature Communications</i> 16, 9561.</div>
+        <a class="pub-link" href="publications/Wang_et_al-2025-NComm.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">41</span>
+        <div class="pub-body">Lippiello, E., Petrillo, G., Godano, C., <strong>Dal Zilio, L.</strong> (2025). Toward recognizing the waveform of foreshocks. <i>Geophysical Research Letters</i>, 52(15), e2025GL115466. <span class="adv" title="MSc / PhD / postdoc (co-)advised by Luca">&#8727;</span></div>
+        <a class="pub-link" href="publications/Lippiello-2025-GRL.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">40</span>
+        <div class="pub-body">Mosconi, F., Tinti, E., Casarotti, E., Gabriel, A. A., Rinaldi, A. P., <strong>Dal Zilio, L.</strong>, and Cocco, M. (2025). Modeling the 3D dynamic rupture of micro-earthquakes induced by fluid injection. <i>Journal of Geophysical Research: Solid Earth</i>, 130(3), e2024JB029621.</div>
+        <a class="pub-link" href="publications/Mosconi_et_al-2025.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">39</span>
+        <div class="pub-body">Knight, B. S., Capitanio, F. A., Weinberg, R. F., <strong>Dal Zilio, L.</strong> (2025). Slowing convergence controls on orogeny: A three‐stage evolution of the Cenozoic India‐Asia collision. <i>Tectonics</i>, 44(1), e2024TC008509.</div>
+        <a class="pub-link" href="publications/Knight_et_al-2025.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">38</span>
+        <div class="pub-body">Huang, L., Heimisson, E. R., <strong>Dal Zilio, L.</strong> (2025). Poroelastic effects on rupture propagation across fault stepovers. <i>Earth and Planetary Science Letters</i>, 649, 119103. <span class="adv" title="MSc / PhD / postdoc (co-)advised by Luca">&#8727;</span></div>
+        <a class="pub-link" href="publications/Huang_et_al-2025.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      </ul>
+    </div>
+    <div class="pub-year reveal" id="y2024">
+      <h2>2024</h2>
+      <ul class="pub-list">
+      <li class="pub">
+        <span class="pub-num">37</span>
+        <div class="pub-body">Bianchi, P., Selvadurai, P. A., <strong>Dal Zilio, L.</strong>, Rast, M., Madonna, C., Wiemer, S. (2024). Effects of Energy Dissipation on Precursory Seismicity During Earthquake Preparation. <i>Seismica</i>, 3(2).</div>
+        <a class="pub-link" href="publications/Bianchi_et_al-2024b.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">36</span>
+        <div class="pub-body">Zhou, H., Hu, J., <strong>Dal Zilio, L.</strong>, Tang, M., Li, K., Hu, X. (2024). India-Eurasia convergence speed-up by passive-margin sediment subduction. <i>Nature</i>, 635(8037), 114-120. <span class="adv" title="MSc / PhD / postdoc (co-)advised by Luca">&#8727;</span></div>
+        <a class="pub-link" href="publications/Zhou_et_al-2024-Nature.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">35</span>
+        <div class="pub-body">Obermann, A., Rosskopf, M., Durand, V., Plenkers, K., Broker, K., Rinaldi, A. P., [...], <strong>Dal Zilio, L.</strong>, Giardini, D. (2024). Seismic response of hectometer-scale fracture systems to hydraulic stimulation in the Bedretto Underground laboratory, Switzerland. <i>Journal of Geophysical Research: Solid Earth</i>, 129(11), e2024JB029836.</div>
+        <a class="pub-link" href="publications/Obermann_et_al-2024.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">34</span>
+        <div class="pub-body">Chen, J., Liu, C., <strong>Dal Zilio, L.</strong>, Cao, J., Wang, H., Yang, G., Shi, Y. (2024). Decoding stress patterns of the 2023 Turkiye-Syria earthquake doublet. <i>Journal of Geophysical Research: Solid Earth</i>, 129(10), e2024JB029213.</div>
+        <a class="pub-link" href="publications/Chen_et_al-2024d.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">33</span>
+        <div class="pub-body">Chen, H., Qu, C., Zhao, D., Shan, X., Li, C., &amp; <strong>Dal Zilio, L.</strong> (2024). Large‐scale extensional strain in Southern Tibet from Sentinel‐1 InSAR and GNSS data. <i>Geophysical Research Letters</i>, 51, e2024GL110512.</div>
+        <a class="pub-link" href="publications/Chen_et_al-2024c.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">32</span>
+        <div class="pub-body">Chen, K., Wei, G., Milliner, C., <strong>Dal Zilio, L.</strong>, Liang, C., &amp; Avouac, J. P. (2024). Super-shear ruptures steered by pre-stress heterogeneities during the 2023 Kahramanmaraş earthquake doublet. <i>Nature Communications</i>, 15(1), 7004.</div>
+        <a class="pub-link" href="publications/Chen_et_al-2024b.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">31</span>
+        <div class="pub-body">Gualandi, A., <strong>Dal Zilio, L.</strong>, Faranda, D., &amp; Mengaldo, G. (2024). Similarities and differences between natural and simulated slow earthquakes. <i>Geophysical Research Letters</i>, 51, e2024GL109845.</div>
+        <a class="pub-link" href="publications/Gualandi_et_al-2024.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">30</span>
+        <div class="pub-body">Bianchi, P., Selvadurai, P.A., <strong>Dal Zilio, L.</strong>, Salazar Vásquez, A., Madonna, C., Gerya, T. and Wiemer, S., (2024). Pre-Failure Strain Localization in Siliclastic Rocks: A Comparative Study of Laboratory and Numerical Approaches. <i>Rock Mechanics and Rock Engineering</i>, pp.1-25.</div>
+        <a class="pub-link" href="publications/Bianchi_et_al-2024.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">29</span>
+        <div class="pub-body">Kammer, D.S., McLaskey, G.C., Abercrombie, R.E., Ampuero, J.P., Cattania, C., Cocco, M., <strong>Dal Zilio, L.</strong>, Dresen, G., Gabriel, A.A., Ke, C.Y. and Marone, C., (2024). Earthquake energy dissipation in a fracture mechanics framework. <i>Nature Communications</i>, 15(1), p.4736.</div>
+        <a class="pub-link" href="publications/Kammer_et_al-2024.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">28</span>
+        <div class="pub-body">Zhang, Y., Wimpenny, S., <strong>Dal Zilio, L.</strong>, &amp; Shan, X. (2024). Strain partitioning and fault kinematics in the northern Qilian Shan (NE Tibet) determined from Bayesian inference of geodetic data. <i>Geophysical Research Letters</i>, 51(9), e2023GL107324.</div>
+        <a class="pub-link" href="publications/Zhang_et_al-2024.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">27</span>
+        <div class="pub-body">Huang, K., Wei, G., Chen, K., Zhang, N., Li, M., &amp; <strong>Dal Zilio, L</strong> (2024). The 2023 Mw 6.8 Morocco Earthquake: A Lower Crust Event Triggered by Mantle Upwelling?. <i>Geophysical Research Letters</i>, 51(12), e2024GL109052.</div>
+        <a class="pub-link" href="publications/Huang_et_al-2024.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">26</span>
+        <div class="pub-body">Chen, H., Qu, C., Zhao, D., Shan, X., Ma, C., Gong, W., Zhao, L. and <strong>Dal Zilio, L.</strong>, (2024). 3-D coseismic displacement mapping of the 2015 Mw 7.8 Gorkha earthquake using multi-viewed InSAR. <i>Tectonophysics</i>, 876.</div>
+        <a class="pub-link" href="publications/Chen_et_al-2024.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      </ul>
+    </div>
+    <div class="pub-year reveal" id="y2023">
+      <h2>2023</h2>
+      <ul class="pub-list">
+      <li class="pub">
+        <span class="pub-num">25</span>
+        <div class="pub-body">Wei, G., Chen, K., Lyu, M., Gong, W., <strong>Dal Zilio, L.</strong>, Ye, L., &amp; Tu, H. (2023). Complex strike-slip faulting during the 2021 Mw 7.4 Maduo earthquake. <i>Communications Earth &amp; Environment</i>, 4(1), 319.</div>
+        <a class="pub-link" href="publications/Wei_et_al-2023.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">24</span>
+        <div class="pub-body"><strong>Dal Zilio, L.</strong>, Giardini, D., Carbonell, R., Wiemer, S., (2023). Harnessing the potential of digital twins in seismology. <i>Nature Review Earth &amp; Environment</i>.</div>
+        <a class="pub-link" href="publications/Dal-Zilio_et_al-2023.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">23</span>
+        <div class="pub-body">Michel, S., Stevens, V., <strong>Dal Zilio, L.</strong> and Jolivet, R. (2023). Seismic Coupling and Hazard Assessment of the Himalaya. <i>Himalaya, Dynamics of a Giant 3</i> (eds R. Cattin and J.-L. Epard).</div>
+        <a class="pub-link" href="https://onlinelibrary.wiley.com/doi/10.1002/9781394228683.ch6?target=_blank" target="_blank" rel="noopener">Article</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">22</span>
+        <div class="pub-body">Wang, X., Kammer, D., <strong>Dal Zilio, L.</strong>, Morgan, J., (2023). Non-precursory Accelerating Aseismic Slip during Rupture Nucleation. <i>Journal of Geophysical Research: Solid Earth</i>, 128(6). <span class="adv" title="MSc / PhD / postdoc (co-)advised by Luca">&#8727;</span></div>
+        <a class="pub-link" href="publications/Wang_et_al-2023.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">21</span>
+        <div class="pub-body"><strong>Dal Zilio, L.</strong> and Ampuero, J.-P. (2023). Earthquake doublet in Turkey and Syria. <i>Nature Commun. Earth &amp; Environ</i>, 4, 71.</div>
+        <a class="pub-link" href="publications/Dal_Zilio_Ampuero-2023.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">20</span>
+        <div class="pub-body">Erickson, B. A., J. Jiang, V. Lambert, M. Abdelmeguid, M. Almquist, J.-P. Ampuero, R. Ando, S. Barbot, C. Cattania, A. Chen, <strong>L. Dal Zilio</strong>, E. M. Dunham, A. Elbanna, A.-A. Gabriel, T. W. Harvey, Y. Huang, Y. Kaneko, J. E. Kozdon, N. Lapusta, D. Li, M. Li, C. Liang, Y. Liu, S. Ozawa, C. Pranger, P. Segall, Y. Sun, P. Thakur, C. Uphoff, Y. van Dinther, Y. Yang, (2023). Incorporating full elastodynamic effects and dipping fault geometries in community code verification exercises for simulations of earthquake sequences and aseismic slip (SEAS). <i>Bulletin of the Seismological Society of America</i>, 113(2), 499-523.</div>
+        <a class="pub-link" href="publications/Erickson_et_al-2022.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      </ul>
+    </div>
+    <div class="pub-year reveal" id="y2022">
+      <h2>2022</h2>
+      <ul class="pub-list">
+      <li class="pub">
+        <span class="pub-num">19</span>
+        <div class="pub-body"><strong>Dal Zilio, L.</strong> and Gerya, T. (2022). Subduction earthquake cycles controlled by episodic fluid pressure cycling. <i>Lithos</i>, 426–427, 106800.</div>
+        <a class="pub-link" href="publications/Dal_Zilio_Gerya-2022.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">18</span>
+        <div class="pub-body"><strong>Dal Zilio, L.</strong>, Hegyi, B., Behr, W., Gerya, T. (2022). Hydro-mechanical earthquake cycles in a poro-visco-elasto-plastic fluid-bearing fault structure. <i>Tectonophysics</i> 838, 229516.</div>
+        <a class="pub-link" href="publications/Dal_Zilio_et_al-2022b.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">17</span>
+        <div class="pub-body">Jiang, J., Erickson, B., Lambert, V., Ampuero, J.-P., Ando, R., Barbot, S., Cattania, C., <strong>Dal Zilio, L.</strong>, Duan, B., Dunham, E. M., Gabriel, A.-A., Lapusta, N., Li, D., Liu, D., Liu, Y., Ozawa, S., Pranger, C. &amp; Van Dinther, Y. (2022). Community-driven code comparisons for three-dimensional dynamic modeling of sequences of earthquakes and aseismic slip (SEAS). <i>Journal of Geophysical Research: Solid Earth</i>, 124(12), 12854–12881.</div>
+        <a class="pub-link" href="publications/Jiang_et_al-2022.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">16</span>
+        <div class="pub-body"><strong>Dal Zilio, L.</strong>, Lapusta, N., Avouac, J.P., Gerya, T. (2022). Subduction earthquake sequences in a non-linear visco-elasto-plastic megathrust. <i>Geophysical Journal International</i>, 229(2).</div>
+        <a class="pub-link" href="publications/Dal_Zilio_et_al-2022a.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      </ul>
+    </div>
+    <div class="pub-year reveal" id="y2021">
+      <h2>2021</h2>
+      <ul class="pub-list">
+      <li class="pub">
+        <span class="pub-num">15</span>
+        <div class="pub-body">Brizzi, S., Becker, T.W., Faccenna, C., Behr, W.M., van Zelst, I., <strong>Dal Zilio, L.</strong>, &amp; van Dinther, Y. (2021). The role of sediment subduction and buoyancy on subduction dynamics and geometry. <i>Geophysical Research Letters</i>, 48.</div>
+        <a class="pub-link" href="publications/Brizzi_et_al-2021.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">14</span>
+        <div class="pub-body">Michel, S., Jolivet, R., Rollins, C., Jara, J., &amp; <strong>Dal Zilio, L.</strong> (2021). Seismogenic potential of the Main Himalayan Thrust constrained by coupling segmentation and earthquake scaling. <i>Geophysical Research Letters</i>, 48.</div>
+        <a class="pub-link" href="publications/Michel_et_al-2021.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">13</span>
+        <div class="pub-body"><strong>Dal Zilio, L.</strong>, Hetényi, G., Hubbard, J., &amp; Bollinger, L. (2021). Building the Himalaya from tectonic to earthquake scales. <i>Nature Reviews Earth &amp; Environment</i>, 1-18.</div>
+        <a class="pub-link" href="publications/Dal_Zilio_et_al-2021.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      </ul>
+    </div>
+    <div class="pub-year reveal" id="y2020">
+      <h2>2020</h2>
+      <ul class="pub-list">
+      <li class="pub">
+        <span class="pub-num">12</span>
+        <div class="pub-body"><strong>Dal Zilio, L.</strong>, Ruh, J., and Avouac, J.P. (2020). Structural evolution of orogenic wedges: interplay between erosion and weak décollements. <i>Tectonics</i> 39(10).</div>
+        <a class="pub-link" href="publications/Dal_Zilio_et_al-2020_Tectonics.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">11</span>
+        <div class="pub-body"><strong>Dal Zilio, L.</strong>, Kissling, E., Gerya, T. and van Dinther, Y. (2020). Slab Rollback Orogeny Model: A Test of Concept. <i>Geophysical Research Letters</i> 47(18).</div>
+        <a class="pub-link" href="publications/Dal_zilio_2020_Slab_Rollback_Orogeny_Model.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">10</span>
+        <div class="pub-body">D’Acquisto, M., <strong>Dal Zilio, L.</strong>, Molinari, I., Kissling, E., Gerya, T., van Dinther, Y. (2020). Tectonics and seismicity in the Northern Apennines driven by slab retreat and crustal delamination. <i>Tectonophysics</i>, 789: 228-481 <span class="adv" title="MSc / PhD / postdoc (co-)advised by Luca">&#8727;</span></div>
+        <a class="pub-link" href="publications/DAcquisto_et_al-2020.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">9</span>
+        <div class="pub-body"><strong>Dal Zilio, L.</strong>, Lapusta, N., Avouac, J.P. (2020). Unraveling scaling properties of slow-slip events. <i>Geophysical Research Letters</i>.</div>
+        <a class="pub-link" href="publications/Dal_Zilio_et_al-2020.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">8</span>
+        <div class="pub-body"><strong>Dal Zilio, L.</strong>, Jolivet, R., van Dinther, Y. (2020). Segmentation of the Main Himalayan Thrust Illuminated by Bayesian Inference of Interseismic Coupling. <i>Geophysical Research Letters</i> 47 (4).</div>
+        <a class="pub-link" href="publications/Dal_Zilio_et_al-2020-Geophysical_Research_Letters.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      </ul>
+    </div>
+    <div class="pub-year reveal" id="y2019">
+      <h2>2019</h2>
+      <ul class="pub-list">
+      <li class="pub">
+        <span class="pub-num">7</span>
+        <div class="pub-body"><strong>Dal Zilio, L.</strong>, van Dinther, Y., Gerya, T., Avouac, J.-P. (2019). Bimodal seismicity in the Himalaya controlled by fault friction and geometry. <i>Nature Communications</i>.</div>
+        <a class="pub-link" href="publications/Dal_Zilio_et_al-2019.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      </ul>
+    </div>
+    <div class="pub-year reveal" id="y2018">
+      <h2>2018</h2>
+      <ul class="pub-list">
+      <li class="pub">
+        <span class="pub-num">6</span>
+        <div class="pub-body"><strong>Dal Zilio, L.</strong> (2018). Subduction-driven Earth machine. <i>Nature Geoscience</i> (retrospective), 11, 229.</div>
+        <a class="pub-link" href="publications/Dal_Zilio-2018.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">5</span>
+        <div class="pub-body"><strong>Dal Zilio, L.</strong>, van Dinther, Y., and Gerya, T. V., (2018). Seismic behaviour of mountain belts controlled by plate convergence rate. <i>Earth and Planetary Science Letters</i>. 482, 81–92.</div>
+        <a class="pub-link" href="publications/Dal_Zilio_et_al-2018.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      </ul>
+    </div>
+    <div class="pub-year reveal" id="y2017">
+      <h2>2017</h2>
+      <ul class="pub-list">
+      <li class="pub">
+        <span class="pub-num">4</span>
+        <div class="pub-body">Ficini, E., <strong>Dal Zilio, L.</strong>, Doglioni, C., and Gerya, T. V., (2017). Horizontal mantle flow controls subduction dynamics. <i>Scientific Reports</i>, 7(1), 7550. <span class="adv" title="MSc / PhD / postdoc (co-)advised by Luca">&#8727;</span></div>
+        <a class="pub-link" href="publications/Ficini_et_al-2017.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">3</span>
+        <div class="pub-body"><strong>Dal Zilio, L.</strong>, Faccenda, M., and Capitanio, F. A., (2017). The role of deep subduction in supercontinent breakup. <i>Tectonophysics</i>.</div>
+        <a class="pub-link" href="publications/Dal_Zilio_et_al-2017.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      <li class="pub">
+        <span class="pub-num">2</span>
+        <div class="pub-body">Faccenda, M., and <strong>Dal Zilio, L.</strong>, (2017). The role of solid–solid phase transitions in mantle convection. <i>Lithos</i> 268, 198-224.</div>
+        <a class="pub-link" href="publications/Faccenda_DalZilio-2017.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      </ul>
+    </div>
+    <div class="pub-year reveal" id="y2015">
+      <h2>2015</h2>
+      <ul class="pub-list">
+      <li class="pub">
+        <span class="pub-num">1</span>
+        <div class="pub-body">Meyzen, C.M., Massironi, M., Pozzobon. R., and <strong>Dal Zilio, L.</strong>, (2015). Are plumes on motionless plates analogues to Martian plume feeding the giant shield volcanoes? <i>Geological Society of London</i>, 401.</div>
+        <a class="pub-link" href="publications/Meyzen_et_al-2014.pdf" target="_blank" rel="noopener">PDF</a>
+      </li>
+      </ul>
+    </div>
+<!-- publications:end -->
+  </div>
+</main>
+
+<section class="contact" id="contact">
+  <div class="wrap reveal">
+    <div class="eyebrow" data-i18n="contact.eyebrow">Get in touch</div>
+    <a href="index.html#contact" class="btn light" data-i18n="pubs.contact">Contact Luca</a>
+    <div class="contact-links">
+      <a href="index.html">Home</a>
+      <a href="https://www.linkedin.com/in/lucadalzilio" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="https://scholar.google.com/citations?user=nvfIto8AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  &copy; <span id="year">2026</span> Luca Dal Zilio. <span data-i18n="footer.tag">Speaks internationally.</span>
+</footer>
+
+<script src="assets/js/translations.js"></script>
+<script src="assets/js/script.js"></script>
+</body>
+</html>

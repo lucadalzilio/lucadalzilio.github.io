@@ -1,0 +1,9 @@
+# macOS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Original photos, book cover files and working images: kept locally, not published
+source/
