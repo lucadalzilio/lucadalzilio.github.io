@@ -2,7 +2,7 @@
 
 Peer-reviewed papers by Luca Dal Zilio, newest first. The PDF links point to the files in this folder, which are also served on the website. ∗ marks a student or postdoc (co-)advised by Luca.
 
-[Google Scholar](https://scholar.google.com/citations?user=nvfIto8AAAAJ&hl=en) · [PhD thesis](Thesis_Dal_Zilio.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=nvfIto8AAAAJ&hl=en) · [PhD thesis](PhD_thesis.pdf) · [MSc thesis](Thesis_Dal_Zilio.pdf)
 
 [**61**] Petrillo, G., **Dal Zilio, L.** (2026). A machine learning diagnostic test for nonstationary ETAS aftershock models. _Earth and Planetary Science Letters_, 695, 120308. [PDF](Petrillo-Dal-Zilio_2026_EPSL.pdf)
 

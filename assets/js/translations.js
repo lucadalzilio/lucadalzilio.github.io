@@ -97,6 +97,12 @@ window.LDZ_IT = {
   "gal.portrait": "Ritratto",
   "gal.field": "Sul campo",
   "gal.tv": "Televisione nazionale",
+  "gal.tour.kiliset": "Dietro le quinte di Kilimangiaro, Rai 3",
+  "gal.tour.kili": "Ospite a Kilimangiaro, Rai 3",
+  "gal.tour.paese": "Presentazione di Le forze invisibili",
+  "gal.tour.quinto": "Presentazione del libro in libreria",
+  "gal.tour.rete": "Intervista televisiva, Rete Veneta",
+  "gal.tour.treviso": "Presentazione di Le forze invisibili",
   "gal.groupeos": "Con il gruppo di ricerca all’Earth Observatory of Singapore",
   "gal.groupdinner": "Cena con il gruppo a Singapore",
   "gal.plenary": "Discussione plenaria",
@@ -119,6 +125,7 @@ window.LDZ_IT = {
   "pubs.intro": "Articoli peer-reviewed su terremoti, tettonica delle placche e fisica della Terra, dal 2015 a oggi. Ogni voce rimanda all’articolo. L’elenco è in inglese.",
   "pubs.count": "articoli peer-reviewed",
   "pubs.thesis": "Tesi di dottorato &rarr;",
+  "pubs.msc": "Tesi di laurea magistrale &rarr;",
   "pubs.note": "<span class=\"adv\">&#8727;</span> Studente di master, dottorato o postdoc (co-)supervisionato da Luca.",
   "pubs.contact": "Contatta Luca"
 };
